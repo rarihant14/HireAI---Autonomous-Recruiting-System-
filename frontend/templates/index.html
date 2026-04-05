@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HireAI — Autonomous Recruiting System</title>
+  <link rel="stylesheet" href="/static/css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- ── Sidebar ───────────────────────────────────────────────── -->
+  <aside class="sidebar">
+    <div class="sidebar-brand">
+      <span class="brand-icon">⬡</span>
+      <span class="brand-name">HireAI</span>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a href="#" class="nav-item active" data-page="dashboard">
+        <span class="nav-icon">◈</span> Dashboard
+      </a>
+      <a href="#" class="nav-item" data-page="candidates">
+        <span class="nav-icon">◉</span> Candidates
+      </a>
+      <a href="#" class="nav-item" data-page="ingest">
+        <span class="nav-icon">◎</span> Ingest Data
+      </a>
+      <a href="#" class="nav-item" data-page="anticheat">
+        <span class="nav-icon">◐</span> Anti-Cheat
+      </a>
+      <a href="#" class="nav-item" data-page="learning">
+        <span class="nav-icon">◑</span> Learnings
+      </a>
+      <a href="#" class="nav-item" data-page="architecture">
+        <span class="nav-icon">◒</span> Architecture
+      </a>
+    </nav>
+
+    <div class="sidebar-footer">
+      <div class="polling-toggle">
+        <span class="poll-label">Email Polling</span>
+        <button id="pollBtn" class="toggle-btn off" onclick="togglePolling()">OFF</button>
+      </div>
+      <div class="status-dot" id="statusDot">
+        <span class="dot"></span> System Idle
+      </div>
+    </div>
+  </aside>
+
+  <!-- ── Main Content ───────────────────────────────────────────── -->
+  <main class="main-content">
+
+    <!-- Dashboard Page -->
+    <section id="page-dashboard" class="page active">
+      <div class="page-header">
+        <h1>Command Center</h1>
+        <button class="btn btn-primary" onclick="loadStats()">↺ Refresh</button>
+      </div>
+
+      <div class="stats-grid" id="statsGrid">
+        <div class="stat-card" id="stat-total">
+          <div class="stat-num">—</div>
+          <div class="stat-label">Total Candidates</div>
+        </div>
+        <div class="stat-card accent-green" id="stat-fasttrack">
+          <div class="stat-num">—</div>
+          <div class="stat-label">Fast-Track</div>
+        </div>
+        <div class="stat-card accent-yellow" id="stat-standard">
+          <div class="stat-num">—</div>
+          <div class="stat-label">Standard</div>
+        </div>
+        <div class="stat-card accent-red" id="stat-rejected">
+          <div class="stat-num">—</div>
+          <div class="stat-label">Rejected</div>
+        </div>
+        <div class="stat-card accent-orange" id="stat-aiflags">
+          <div class="stat-num">—</div>
+          <div class="stat-label">AI Flags</div>
+        </div>
+        <div class="stat-card" id="stat-avgscore">
+          <div class="stat-num">—</div>
+          <div class="stat-label">Avg Score</div>
+        </div>
+      </div>
+
+      <div class="row-2">
+        <div class="card">
+          <h2 class="card-title">Tier Distribution</h2>
+          <div class="tier-bars" id="tierBars"></div>
+        </div>
+        <div class="card">
+          <h2 class="card-title">Learning Status</h2>
+          <div id="dashboardLearningStatus" class="learnings-list">
+            <div class="activity-empty">Loading learning status…</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row-2 mt">
+        <div class="card">
+          <h2 class="card-title">System Pipeline</h2>
+          <div class="pipeline">
+            <div class="pipeline-step" id="ps1">
+              <div class="ps-icon">①</div>
+              <div class="ps-label">ACCESS<br><small>Data Ingestion</small></div>
+            </div>
+            <div class="pipeline-arrow">→</div>
+            <div class="pipeline-step" id="ps2">
+              <div class="ps-icon">②</div>
+              <div class="ps-label">SCORE<br><small>Intelligence</small></div>
+            </div>
+            <div class="pipeline-arrow">→</div>
+            <div class="pipeline-step" id="ps3">
+              <div class="ps-icon">③</div>
+              <div class="ps-label">ENGAGE<br><small>Email Loops</small></div>
+            </div>
+            <div class="pipeline-arrow">→</div>
+            <div class="pipeline-step" id="ps4">
+              <div class="ps-icon">④</div>
+              <div class="ps-label">GUARD<br><small>Anti-Cheat</small></div>
+            </div>
+            <div class="pipeline-arrow">→</div>
+            <div class="pipeline-step" id="ps5">
+              <div class="ps-icon">⑤</div>
+              <div class="ps-label">LEARN<br><small>Self-Improve</small></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card mt">
+        <h2 class="card-title">Recent Activity</h2>
+        <div id="recentActivity" class="activity-feed">
+          <div class="activity-empty">No activity yet. Ingest candidates to get started.</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Candidates Page -->
+    <section id="page-candidates" class="page">
+      <div class="page-header">
+        <h1>Candidates</h1>
+        <div class="filter-row">
+          <input type="text" id="searchInput" placeholder="Search name / email…" oninput="filterCandidates()" />
+          <select id="tierFilter" onchange="filterCandidates()">
+            <option value="">All Tiers</option>
+            <option value="Fast-Track">Fast-Track</option>
+            <option value="Standard">Standard</option>
+            <option value="Review">Review</option>
+            <option value="Reject">Reject</option>
+          </select>
+        </div>
+      </div>
+      <div class="candidate-table-wrap">
+        <table class="candidate-table">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Score</th>
+              <th>Tier</th>
+              <th>GitHub</th>
+              <th>Strikes</th>
+              <th>Round</th>
+              <th>Details</th>
+            </tr>
+          </thead>
+          <tbody id="candidateTableBody">
+            <tr><td colspan="7" class="empty-cell">Load candidates first.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Ingest Page -->
+    <section id="page-ingest" class="page">
+      <div class="page-header">
+        <h1>Ingest Data</h1>
+      </div>
+      <div class="ingest-grid">
+        <div class="card ingest-card">
+          <div class="ingest-icon">⚡</div>
+          <h2>Demo Mode</h2>
+          <p>Generate synthetic candidates to test the full pipeline instantly — no file needed.</p>
+          <div class="form-group">
+            <label>Number of candidates</label>
+            <input type="number" id="demoCount" value="20" min="5" max="100" />
+          </div>
+          <div class="form-group">
+            <label>Job Role</label>
+            <input type="text" id="demoRole" value="Software Engineer Intern" />
+          </div>
+          <button class="btn btn-primary full-width" onclick="ingestDemo()">Generate & Ingest</button>
+        </div>
+
+        <div class="card ingest-card">
+          <div class="ingest-icon">📂</div>
+          <h2>Upload File</h2>
+          <p>Upload a CSV or Excel file exported from Internshala or another platform.</p>
+          <div class="form-group">
+            <label>Job Role</label>
+            <input type="text" id="uploadRole" value="Software Engineer Intern" />
+          </div>
+          <div class="drop-zone" id="dropZone" onclick="document.getElementById('fileInput').click()">
+            <div class="drop-icon">↑</div>
+            <div class="drop-text">Drop CSV / XLSX here or click to browse</div>
+            <input type="file" id="fileInput" accept=".csv,.xlsx,.xls" style="display:none" onchange="handleFileUpload(event)" />
+          </div>
+          <div id="uploadStatus" class="upload-status"></div>
+        </div>
+      </div>
+
+      <div id="ingestResult" class="card mt" style="display:none">
+        <h2 class="card-title">Ingestion Result</h2>
+        <div id="ingestResultBody"></div>
+      </div>
+    </section>
+
+    <!-- Anti-Cheat Page -->
+    <section id="page-anticheat" class="page">
+      <div class="page-header">
+        <h1>Anti-Cheat Console</h1>
+      </div>
+
+      <div class="card">
+        <h2 class="card-title">Live Detector</h2>
+        <p class="card-subtitle">Paste a question and candidate answer to run the AI detection pipeline.</p>
+        <div class="form-group">
+          <label>Question</label>
+          <input type="text" id="acQuestion" placeholder="e.g. How would you approach scraping a site with reCAPTCHA?" />
+        </div>
+        <div class="form-group">
+          <label>Candidate Answer</label>
+          <textarea id="acAnswer" rows="6" placeholder="Paste the candidate's answer here…"></textarea>
+        </div>
+        <div class="form-group">
+          <label>Reply Latency (seconds, −1 if unknown)</label>
+          <input type="number" id="acLatency" value="-1" />
+        </div>
+        <button class="btn btn-primary" onclick="runAntiCheat()">Analyse Response</button>
+      </div>
+
+      <div id="acResult" class="card mt" style="display:none">
+        <h2 class="card-title">Detection Result</h2>
+        <div id="acResultBody"></div>
+      </div>
+
+      <div class="card mt">
+        <h2 class="card-title">Candidates Needing Review</h2>
+        <div id="flaggedList" class="flagged-list">
+          <div class="activity-empty">No candidates currently need anti-cheat review.</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Learning Page -->
+    <section id="page-learning" class="page">
+      <div class="page-header">
+        <h1>Self-Learning Insights</h1>
+        <button class="btn btn-primary" onclick="triggerLearning()">▶ Run Cycle Now</button>
+      </div>
+      <div id="learningsList" class="learnings-list">
+        <div class="activity-empty">No learnings yet. Run a cycle to generate insights.</div>
+      </div>
+    </section>
+
+    <!-- Architecture Page -->
+    <section id="page-architecture" class="page">
+      <div class="page-header">
+        <h1>System Architecture</h1>
+      </div>
+      <div class="card">
+        <h2 class="card-title">Data Flow</h2>
+        <div class="arch-diagram" id="archDiagram"></div>
+      </div>
+      <div class="arch-grid">
+        <div class="arch-card">
+          <div class="arch-num">1</div>
+          <h3>Access</h3>
+          <p>CSV/XLSX ingestion is live today. This is the stable ingestion path feeding the autonomous pipeline.</p>
+          <div class="tech-tags"><span>Pandas</span><span>CSV</span><span>Excel</span></div>
+        </div>
+        <div class="arch-card">
+          <div class="arch-num">2</div>
+          <h3>Intelligence</h3>
+          <p>LangGraph scoring pipeline: skills → answers → GitHub → penalties → tier assignment.</p>
+          <div class="tech-tags"><span>LangGraph</span><span>Groq</span><span>GitHub API</span></div>
+        </div>
+        <div class="arch-card">
+          <div class="arch-num">3</div>
+          <h3>Engagement</h3>
+          <p>Multi-round Gmail conversations with thread tracking, contextual replies, and lightweight code-review feedback.</p>
+          <div class="tech-tags"><span>Gmail API</span><span>LangChain</span><span>Groq</span></div>
+        </div>
+        <div class="arch-card">
+          <div class="arch-num">4</div>
+          <h3>Anti-Cheat</h3>
+          <p>AI similarity, timing flags, and copy-ring detection now run on both application answers and email replies.</p>
+          <div class="tech-tags"><span>scikit-learn</span><span>TF-IDF</span><span>Similarity Graphs</span></div>
+        </div>
+        <div class="arch-card">
+          <div class="arch-num">5</div>
+          <h3>Self-Learning</h3>
+          <p>Periodic analysis every 10 candidates. Insights update scoring weights automatically.</p>
+          <div class="tech-tags"><span>LangGraph</span><span>SQLite</span><span>Groq</span></div>
+        </div>
+        <div class="arch-card">
+          <div class="arch-num">6</div>
+          <h3>Integration</h3>
+          <p>Flask API plus optional Celery worker and Beat scheduler for persistent polling, learning, and queued ingestion.</p>
+          <div class="tech-tags"><span>Flask</span><span>SQLAlchemy</span><span>Celery Beat</span></div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Candidate Detail Modal -->
+  <div id="modal" class="modal-overlay" onclick="closeModal(event)">
+    <div class="modal-box">
+      <button class="modal-close" onclick="closeModal()">✕</button>
+      <div id="modalContent"></div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast"></div>
+
+  <script src="/static/js/app.js"></script>
+</body>
+</html>
