@@ -117,42 +117,42 @@ These parts are still experimental and should not be overstated.
 ## Setup Instructions
 
 ### 1. Clone the repository
-```bash
-git clone <github.com/rarihant14/HireAI---Autonomous-Recruiting-System>
-cd hiring-agent
+``bash
+        
+    git clone <github.com/rarihant14/HireAI---Autonomous-Recruiting-System>
+    cd hiring-agent
+
+
 
 2. Create virtual environment
-python -m venv venv
+
+       python -m venv venv
+
 3. Activate environment
 
 Windows:
 
-venv\Scripts\activate
+      venv\Scripts\activate
 
 Linux/macOS:
 
-source venv/bin/activate
+    source venv/bin/activate
+
+
 4. Install dependencies
-pip install -r requirements.txt
-5. Configure environment variables
+
+       pip install -r requirements.txt
+6. Configure environment variables
 
 Create a .env file:
 
-GROQ_API_KEY=your_groq_key
-
+    GROQ_API_KEY=your_groq_key
 
 For Gmail:
 
 place credentials.json in project root
 
-Optional SMTP fallback:
 
-SMTP_USER=you@gmail.com
-SMTP_PASSWORD=your_app_password
-6. Run the application
-python app.py
-7. Optional: start worker
-celery -A backend.queue:celery_app worker --loglevel=info
-8. Optional: start scheduler
-
+Contribution Note
+UI layer: AI-assisted
 Backend logic, system design, and integrations: ~70% manually built
