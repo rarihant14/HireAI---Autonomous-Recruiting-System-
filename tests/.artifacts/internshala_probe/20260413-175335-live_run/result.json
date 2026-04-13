@@ -1,0 +1,190 @@
+{
+  "started_at": 1776083015.2071104,
+  "login_url": "https://internshala.com/login/user",
+  "final_url": "https://internshala.com/login/user",
+  "title": "Internships | Jobs | Trainings & Placement Courses | Post a Job",
+  "load_outcome": "loaded",
+  "failure_mode": "captcha_present_on_login_page",
+  "main_document_status": 200,
+  "submit_attempted": false,
+  "submit_outcome": "not_attempted",
+  "captcha_present_before_submit": true,
+  "captcha_present_after_submit": true,
+  "login_error_text": "",
+  "redirect_chain": [
+    "https://internshala.com/login/user"
+  ],
+  "console_messages": [
+    "log: ",
+    "log: %cINTERNSHALA\n position: absolute; top: 10px;color: #fff; padding:5px; font-weight: bold; font-family: helvetica; pading:10px; background-color: #1295c9; font-size: 40px; margin:0 auto; align:center;",
+    "log: ",
+    "log: %cWe are transforming the lives of millions of college students, one meaningful internship at a time. Apply here  https://internshala.com/careers to work with us. font-family: arial; font-style: italic; font-size: 14px;",
+    "warning: The resource https://internshala.com//static/images/home/sprites/img-assets.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  ],
+  "page_errors": [],
+  "request_failures": [],
+  "response_log": [
+    {
+      "url": "https://internshala.com/login/user",
+      "status": 200,
+      "resource_type": "document"
+    },
+    {
+      "url": "https://internshala.com//static/images/home/sprites/img-assets.png",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://internshala.com//static/images/footer/google_play_store.png",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://internshala.com//static/images/footer/apple_app_store.png",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://internshala.com//static/cdn/4.4.1/css/bootstrap.min.css",
+      "status": 200,
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://internshala.com/static/css/login/login.1775554316.css",
+      "status": 200,
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://internshala.com/static/js/web_vitals/web-vitals.umd.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/static/images/home/sprites/sprite_v1.png",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://internshala.com/static/images/home/sprites/img-assets.png",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://internshala.com/static/js/registration/domestic-registration-navbar-events.1727159863.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/static/js/login/login.1773211808.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/static/js/student/app_download.1732685003.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/static/js/footer.1760584489.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/static/js/includes/common/libraries.2583691470.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/static/js/combined/common_form.1773211830.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/info/storeData",
+      "status": 200,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://internshala.com/static/fonts/internshala-icons.woff2?19gygu",
+      "status": 200,
+      "resource_type": "font"
+    },
+    {
+      "url": "https://www.googleadservices.com/pagead/conversion.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise.js?render=6Lcqj0EsAAAAAL4K2T7--kNrAXT3_99tIuEQLZJF",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/static/fonts/Inter.woff2?v=3.11",
+      "status": 200,
+      "resource_type": "font"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/981478532/?random=1776083023159&cv=9&fst=1776083023159&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465925%2C512247838%2C658953496&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&rfmt=3&fmt=4",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/981478532/?random=1776083023159&cv=9&fst=1776081600000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465925%2C512247838%2C658953496&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&rfmt=3&fmt=3&is_vtc=1&cid=CAQSyQEABaugfQL5GIdBDVVmBOSYQLWUBmNzcqRoPgpm-EO_DbS9z8AhOCt1WYaxeDdosooBW-VhG0M6dt-L7wnfGivmvmJ3azYo08ASi1zOsW4hMtlrccbaOO_JCrxf6sevB0M12qbjwwK4gC10Ghaau6GcNV6MNJn4c7cUX3ujb23opGfLKo3jTxi9JXKs7yvUUzKTlc5M_USIuwRw7bIK66gBxVWAab7UDOicXt7F4c_bY598sFR_qItCyYoVA3MNlLYdvQ_mUb2YgEk&random=3999884172&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/gTpTIWhbKpxADzTzkcabhXN4/recaptcha__en.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.google.co.in/pagead/1p-user-list/981478532/?random=1776083023159&cv=9&fst=1776081600000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465925%2C512247838%2C658953496&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&rfmt=3&fmt=3&is_vtc=1&cid=CAQSyQEABaugfQL5GIdBDVVmBOSYQLWUBmNzcqRoPgpm-EO_DbS9z8AhOCt1WYaxeDdosooBW-VhG0M6dt-L7wnfGivmvmJ3azYo08ASi1zOsW4hMtlrccbaOO_JCrxf6sevB0M12qbjwwK4gC10Ghaau6GcNV6MNJn4c7cUX3ujb23opGfLKo3jTxi9JXKs7yvUUzKTlc5M_USIuwRw7bIK66gBxVWAab7UDOicXt7F4c_bY598sFR_qItCyYoVA3MNlLYdvQ_mUb2YgEk&random=3999884172&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6Lcqj0EsAAAAAL4K2T7--kNrAXT3_99tIuEQLZJF&co=aHR0cHM6Ly9pbnRlcm5zaGFsYS5jb206NDQz&hl=en&v=gTpTIWhbKpxADzTzkcabhXN4&size=invisible&anchor-ms=20000&execute-ms=30000&cb=noxsf84n2utu",
+      "status": 200,
+      "resource_type": "document"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/gTpTIWhbKpxADzTzkcabhXN4/recaptcha__en.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/gTpTIWhbKpxADzTzkcabhXN4/styles__ltr.css",
+      "status": 200,
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/webworker.js?hl=en&v=gTpTIWhbKpxADzTzkcabhXN4",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "status": 200,
+      "resource_type": "font"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/gTpTIWhbKpxADzTzkcabhXN4/recaptcha__en.js",
+      "status": 200,
+      "resource_type": "other"
+    }
+  ],
+  "notes": [
+    "no_credentials_provided_submit_skipped"
+  ],
+  "artifacts": {
+    "screenshot": "C:\\Users\\Admin\\Desktop\\Arii'\\Genrative AI\\project\\hiring-agent\\tests\\.artifacts\\internshala_probe\\20260413-175335-live_run\\page.png",
+    "html": "C:\\Users\\Admin\\Desktop\\Arii'\\Genrative AI\\project\\hiring-agent\\tests\\.artifacts\\internshala_probe\\20260413-175335-live_run\\page.html"
+  }
+}

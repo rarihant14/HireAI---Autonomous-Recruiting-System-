@@ -1,0 +1,1477 @@
+{
+  "started_at": 1776084111.798646,
+  "login_url": "https://internshala.com/login/user",
+  "final_url": "https://internshala.com/login/user",
+  "title": "Internships | Jobs | Trainings & Placement Courses | Post a Job",
+  "load_outcome": "loaded",
+  "failure_mode": "captcha_present_after_submit",
+  "main_document_status": 200,
+  "submit_attempted": true,
+  "submit_outcome": "clicked",
+  "captcha_present_before_submit": true,
+  "captcha_present_after_submit": true,
+  "login_error_text": "The email id or password that you've entered is incorrect.\u00a0Please check again or use forgot password option if you do not remember the password.",
+  "redirect_chain": [
+    "https://internshala.com/login/user"
+  ],
+  "console_messages": [
+    "log: ",
+    "log: %cINTERNSHALA\n position: absolute; top: 10px;color: #fff; padding:5px; font-weight: bold; font-family: helvetica; pading:10px; background-color: #1295c9; font-size: 40px; margin:0 auto; align:center;",
+    "log: ",
+    "log: %cWe are transforming the lives of millions of college students, one meaningful internship at a time. Apply here  https://internshala.com/careers to work with us. font-family: arial; font-style: italic; font-size: 14px;",
+    "verbose: [DOM] Input elements should have autocomplete attributes (suggested: \"current-password\"): (More info: https://goo.gl/9p2vKq) %o",
+    "error: Refused to load the script 'https://cdnt.netcoresmartech.com/smartechclient.js' because it violates the following Content Security Policy directive: \"script-src-elem 'self' 'unsafe-eval' 'unsafe-inline' 'nonce-AtVebXFZRLEmfBiouVX73g==' https://internshala.com https://*.internshala.com https://*.google.com https://*.googletagmanager.com https://*.googleadservices.com https://www.googleadservices.com https://*.facebook.net https://*.facebook.com https://*.googleads.g.doubleclick.net https://*.jquery.com https://*.bootstrapcdn.com https://*.google-analytics.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://*.gstatic.com https://*.linkedin.com https://snap.licdn.com https://*.clarity.ms https://*.calendly.com https://calendly.com https://www.paynimo.com https://cdn.moengage.com https://app-cdn.moengage.com https://*.moengage.com https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr\".\n",
+    "error: Refused to connect to 'https://px.ads.linkedin.com/attribution_trigger?pid=4713794&time=1776084143795&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser' because it violates the following Content Security Policy directive: \"connect-src 'self' wss://internshala.com wss://*.internshala.com https://*.google.com https://*.google-analytics.com https://*.googletagmanager.com/ https://*.doubleclick.net https://*.facebook.com https://*.instagram.com https://*.clarity.ms https://pagead2.googlesyndication.com https://cdn.linkedin.oribi.io/ https://br.internshala.com/ https://www.paynimo.com https://securepg.paynimo.com https://sdk-01.moengage.com https://sdk-02.moengage.com https://sdk-03.moengage.com https://sdk-04.moengage.com https://*.moengage.com https://moe-email-campaigns.s3.amazonaws.com/ https://image.moengage.com/ https://image-eu.moengage.com/ https://image-ap1.moengage.com/ https://image-04.moengage.com/ https://image-06.moengage.com/ https://image.moengage.com/all-campaign-images-moe-dc-100/ https://sdk-06.moengage.com/ https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr\".\n",
+    "error: Refused to connect to 'https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g' because it violates the following Content Security Policy directive: \"connect-src 'self' wss://internshala.com wss://*.internshala.com https://*.google.com https://*.google-analytics.com https://*.googletagmanager.com/ https://*.doubleclick.net https://*.facebook.com https://*.instagram.com https://*.clarity.ms https://pagead2.googlesyndication.com https://cdn.linkedin.oribi.io/ https://br.internshala.com/ https://www.paynimo.com https://securepg.paynimo.com https://sdk-01.moengage.com https://sdk-02.moengage.com https://sdk-03.moengage.com https://sdk-04.moengage.com https://*.moengage.com https://moe-email-campaigns.s3.amazonaws.com/ https://image.moengage.com/ https://image-eu.moengage.com/ https://image-ap1.moengage.com/ https://image-04.moengage.com/ https://image-06.moengage.com/ https://image.moengage.com/all-campaign-images-moe-dc-100/ https://sdk-06.moengage.com/ https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr\".\n",
+    "error: Fetch API cannot load https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g. Refused to connect because it violates the document's Content Security Policy.",
+    "error: Refused to connect to 'https://px.ads.linkedin.com/wa/?medium=beacon&fmt=g' because it violates the following Content Security Policy directive: \"connect-src 'self' wss://internshala.com wss://*.internshala.com https://*.google.com https://*.google-analytics.com https://*.googletagmanager.com/ https://*.doubleclick.net https://*.facebook.com https://*.instagram.com https://*.clarity.ms https://pagead2.googlesyndication.com https://cdn.linkedin.oribi.io/ https://br.internshala.com/ https://www.paynimo.com https://securepg.paynimo.com https://sdk-01.moengage.com https://sdk-02.moengage.com https://sdk-03.moengage.com https://sdk-04.moengage.com https://*.moengage.com https://moe-email-campaigns.s3.amazonaws.com/ https://image.moengage.com/ https://image-eu.moengage.com/ https://image-ap1.moengage.com/ https://image-04.moengage.com/ https://image-06.moengage.com/ https://image.moengage.com/all-campaign-images-moe-dc-100/ https://sdk-06.moengage.com/ https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr\".\n",
+    "error: A bad HTTP response code (404) was received when fetching the script.",
+    "error: A bad HTTP response code (404) was received when fetching the script.",
+    "warning: The resource https://internshala.com//static/images/home/sprites/img-assets.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.",
+    "error: Refused to connect to 'https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g' because it violates the following Content Security Policy directive: \"connect-src 'self' wss://internshala.com wss://*.internshala.com https://*.google.com https://*.google-analytics.com https://*.googletagmanager.com/ https://*.doubleclick.net https://*.facebook.com https://*.instagram.com https://*.clarity.ms https://pagead2.googlesyndication.com https://cdn.linkedin.oribi.io/ https://br.internshala.com/ https://www.paynimo.com https://securepg.paynimo.com https://sdk-01.moengage.com https://sdk-02.moengage.com https://sdk-03.moengage.com https://sdk-04.moengage.com https://*.moengage.com https://moe-email-campaigns.s3.amazonaws.com/ https://image.moengage.com/ https://image-eu.moengage.com/ https://image-ap1.moengage.com/ https://image-04.moengage.com/ https://image-06.moengage.com/ https://image.moengage.com/all-campaign-images-moe-dc-100/ https://sdk-06.moengage.com/ https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr\".\n",
+    "error: Fetch API cannot load https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g. Refused to connect because it violates the document's Content Security Policy.",
+    "error: Refused to connect to 'https://px.ads.linkedin.com/wa/?medium=beacon&fmt=g' because it violates the following Content Security Policy directive: \"connect-src 'self' wss://internshala.com wss://*.internshala.com https://*.google.com https://*.google-analytics.com https://*.googletagmanager.com/ https://*.doubleclick.net https://*.facebook.com https://*.instagram.com https://*.clarity.ms https://pagead2.googlesyndication.com https://cdn.linkedin.oribi.io/ https://br.internshala.com/ https://www.paynimo.com https://securepg.paynimo.com https://sdk-01.moengage.com https://sdk-02.moengage.com https://sdk-03.moengage.com https://sdk-04.moengage.com https://*.moengage.com https://moe-email-campaigns.s3.amazonaws.com/ https://image.moengage.com/ https://image-eu.moengage.com/ https://image-ap1.moengage.com/ https://image-04.moengage.com/ https://image-06.moengage.com/ https://image.moengage.com/all-campaign-images-moe-dc-100/ https://sdk-06.moengage.com/ https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr\".\n"
+  ],
+  "page_errors": [
+    "Uncaught [object Object]",
+    "Uncaught [object Object]"
+  ],
+  "request_failures": [],
+  "response_log": [
+    {
+      "url": "https://internshala.com/login/user",
+      "status": 200,
+      "resource_type": "document"
+    },
+    {
+      "url": "https://internshala.com/static/js/web_vitals/web-vitals.umd.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com//static/images/home/sprites/img-assets.png",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://internshala.com//static/cdn/4.4.1/css/bootstrap.min.css",
+      "status": 200,
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://internshala.com//static/images/footer/google_play_store.png",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://internshala.com/static/css/login/login.1775554316.css",
+      "status": 200,
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://internshala.com//static/images/footer/apple_app_store.png",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://internshala.com/static/js/login/login.1773211808.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/static/js/registration/domestic-registration-navbar-events.1727159863.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/static/js/student/app_download.1732685003.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/static/js/includes/common/libraries.2583691470.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/info/storeData",
+      "status": 200,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://internshala.com/static/js/footer.1760584489.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/static/images/home/sprites/sprite_v1.png",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://internshala.com/static/images/home/sprites/img-assets.png",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.googleadservices.com/pagead/conversion.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/static/js/combined/common_form.1773211830.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://internshala.com/static/fonts/internshala-icons.woff2?19gygu",
+      "status": 200,
+      "resource_type": "font"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise.js?render=6Lcqj0EsAAAAAL4K2T7--kNrAXT3_99tIuEQLZJF",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.clarity.ms/tag/gz5kd3abd6",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://cdn.moengage.com/release/dc_3/versions/2.54.12/moe_webSdk.min.latest.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5NSPHG",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/981478532/?random=1776084130432&cv=9&fst=1776084130432&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=376635470%2C375603260%2C466465926%2C512247839%2C658953495&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&rfmt=3&fmt=4",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/gTpTIWhbKpxADzTzkcabhXN4/recaptcha__en.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/981478532/?random=1776084130432&cv=9&fst=1776081600000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=376635470%2C375603260%2C466465926%2C512247839%2C658953495&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&rfmt=3&fmt=3&is_vtc=1&cid=CAQSyQEABaugfYVzSigaUf-K-JBFX6WvgfSPYo4_8RcuYTlFJnyY30OzGZ2c8iokL8AKd2lFR_U18Avp0kt4godekdpluqx9TmJqigEBbCVCa3tDSnLtBIUH_DWeCiduJio7VUAx0Z2LhrujS1NjVBeS2K9c7pj42PMLl9jWWYVFIi77lrCi_qis5OCQmRfPKOD4ZIZQKpDIRCJAvvoN-JB7tqcUYk34eOhYj1BSad-FauB-YHDyk1Y3DDKEusaugX4Di1h7VB9T8ofsAOI&random=1381463252&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.co.in/pagead/1p-user-list/981478532/?random=1776084130432&cv=9&fst=1776081600000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=376635470%2C375603260%2C466465926%2C512247839%2C658953495&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&rfmt=3&fmt=3&is_vtc=1&cid=CAQSyQEABaugfYVzSigaUf-K-JBFX6WvgfSPYo4_8RcuYTlFJnyY30OzGZ2c8iokL8AKd2lFR_U18Avp0kt4godekdpluqx9TmJqigEBbCVCa3tDSnLtBIUH_DWeCiduJio7VUAx0Z2LhrujS1NjVBeS2K9c7pj42PMLl9jWWYVFIi77lrCi_qis5OCQmRfPKOD4ZIZQKpDIRCJAvvoN-JB7tqcUYk34eOhYj1BSad-FauB-YHDyk1Y3DDKEusaugX4Di1h7VB9T8ofsAOI&random=1381463252&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://internshala.com/static/fonts/Inter.woff2?v=3.11",
+      "status": 200,
+      "resource_type": "font"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-16992256369&cx=c&gtm=4e6481",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-981478532&cx=c&gtm=4e6481",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=4&frm=0&ae=g&en=page_view&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&scrsrc=www.googletagmanager.com&rnd=608714727.1776084131&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&auid=263776112.1776084131&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6481v72423080za200zd72423080xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266400~117384405&apve=1&apvf=f&apvc=1&tft=1776084131613&tfd=2324",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-811441815&cx=c&gtm=4e6481",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-XHNTE5RRF4&cx=c&gtm=4e6481",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.google-analytics.com/analytics.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://track.internshala.com/csp/0",
+      "status": 200,
+      "resource_type": "other"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6Lcqj0EsAAAAAL4K2T7--kNrAXT3_99tIuEQLZJF&co=aHR0cHM6Ly9pbnRlcm5zaGFsYS5jb206NDQz&hl=en&v=gTpTIWhbKpxADzTzkcabhXN4&size=invisible&anchor-ms=20000&execute-ms=30000&cb=vrs8qmgblv7e",
+      "status": 200,
+      "resource_type": "document"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/16992256369/?random=1776084133541&cv=11&fst=1776084133541&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v9218375417z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=10&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&gcp=5",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=10&frm=0&en=page_view&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&scrsrc=www.googletagmanager.com&rnd=608714727.1776084131&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&auid=263776112.1776084131&navt=n&npa=0&gtm=45be6481v9218375417z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&apve=1&apvf=f&apvc=0&tids=AW-16992256369&tid=AW-16992256369&tft=1776084133677&tfd=4388",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16992256369/?random=1776084133541&cv=11&fst=1776084133541&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v9218375417z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=10&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=4",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/981478532/?random=1776084133742&cv=11&fst=1776084133742&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v9215161533z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=3&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=4",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/981478532/?random=1776084133742&cv=11&fst=1776084133742&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v9215161533z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=3&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&gcp=5",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&en=page_view&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&scrsrc=www.googletagmanager.com&rnd=608714727.1776084131&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&auid=263776112.1776084131&navt=n&npa=0&gtm=45be6481v9215161533z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&apve=1&apvf=f&apvc=0&tids=AW-981478532&tid=AW-981478532&tft=1776084134011&tfd=4723",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/811441815/?random=1776084134103&cv=11&fst=1776084134103&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v878783017z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=12&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&gcp=5",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&en=page_view&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&scrsrc=www.googletagmanager.com&rnd=608714727.1776084131&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&auid=263776112.1776084131&navt=n&npa=0&gtm=45be6481v878783017z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&apve=1&apvf=f&apvc=0&tids=AW-811441815&tid=AW-811441815&tft=1776084134238&tfd=4949",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/811441815/?random=1776084134103&cv=11&fst=1776084134103&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v878783017z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=12&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=4",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-XHNTE5RRF4&cid=436575670.1776084134&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&rcb=15&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=0~115938465~115938469~118128923&z=1700347964",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/16992256369/?random=1776084133541&cv=11&fst=1776081600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v9218375417z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=10&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1wEABaugfcBm4ylL4SZPXq1WJDKAXz8uQCk4Ij4MRjjL7_ag1Mfes7I0eOOL2oUSYobyKopJBO-HVOH6vxWeHV48l1-pQxjuZ5nq6aQ3LACwAH0ArZjb5CWYDpkdvr3hW9AMEiQ-bLU4j1xQpVGbYN4kgMPyZfZpIfWT_zNYgSkH_e5AsVFRlsvTdMZDwiFzrEvUZ4Ijnc3d9J8RduOKSKv5HW9O-gUuwv_O1jJQAPFrBJtYgnCSIzF0pugETuumkyqEgDkyjF-IGqABpnAnVNfEXv6EI1T0bQ&random=2447277513&rmt_tld=0&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.co.in/pagead/1p-user-list/16992256369/?random=1776084133541&cv=11&fst=1776081600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v9218375417z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=10&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1wEABaugfcBm4ylL4SZPXq1WJDKAXz8uQCk4Ij4MRjjL7_ag1Mfes7I0eOOL2oUSYobyKopJBO-HVOH6vxWeHV48l1-pQxjuZ5nq6aQ3LACwAH0ArZjb5CWYDpkdvr3hW9AMEiQ-bLU4j1xQpVGbYN4kgMPyZfZpIfWT_zNYgSkH_e5AsVFRlsvTdMZDwiFzrEvUZ4Ijnc3d9J8RduOKSKv5HW9O-gUuwv_O1jJQAPFrBJtYgnCSIzF0pugETuumkyqEgDkyjF-IGqABpnAnVNfEXv6EI1T0bQ&random=2447277513&rmt_tld=1&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/981478532/?random=1776084133742&cv=11&fst=1776081600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v9215161533z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=3&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1wEABaugfd6VTWwq62M1WM9lQ1Vt0yDEXzwcjRtB3YKBUgLynCD1XDNdIyXJm98GiYFEjD1CYt4PUma3DgqaIMebqoVmgyIjVik6GAFrwAIWQJnNYb5GPoZE07mYp6aoXLMERKyJZJ67R1qheqAYr8Go8IiFMl3AdD1IPBz8L0wElRjuUkd7wyxC3ctfr-icMntt7UziyvgUVpa4xesUQ4KXJ_FUIdqoaN8TaLFZKXVI0QRGc-WLgXb58WGFZ2HgJPEaupYGPs2g7AKcKZiu-jA6VPKO5DO-Tg&random=3176302045&rmt_tld=0&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/811441815/?random=1776084134103&cv=11&fst=1776081600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v878783017z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=12&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1wEABaugfdBtFshSrr8DOoNRHclQz89JZTWiqWTq23PHNwA-ODbcfpoTUxInbAPEW0-Bb5uFgdv8vbX-4XP6uJ2d4WomQUlzHRqxYBCzbxwDdtIrFujhGJRnSZEnIopMgpxS77-0mGGRmGO5sMCIkQY5qNyjUyE0i_YeUNcDbhhduONN12PRtsWy-RbGOaRE_NZzh2870BPPAKYZ-98TGadSnUbzrK7L7ccNgPwITbKUWSpAkNMb55sxZODMgs-9lMDAQLzYikyrsLCXByVMO2kMn0ZL26xY6A&random=3933915791&rmt_tld=0&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.co.in/pagead/1p-user-list/981478532/?random=1776084133742&cv=11&fst=1776081600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v9215161533z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=3&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1wEABaugfd6VTWwq62M1WM9lQ1Vt0yDEXzwcjRtB3YKBUgLynCD1XDNdIyXJm98GiYFEjD1CYt4PUma3DgqaIMebqoVmgyIjVik6GAFrwAIWQJnNYb5GPoZE07mYp6aoXLMERKyJZJ67R1qheqAYr8Go8IiFMl3AdD1IPBz8L0wElRjuUkd7wyxC3ctfr-icMntt7UziyvgUVpa4xesUQ4KXJ_FUIdqoaN8TaLFZKXVI0QRGc-WLgXb58WGFZ2HgJPEaupYGPs2g7AKcKZiu-jA6VPKO5DO-Tg&random=3176302045&rmt_tld=1&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.co.in/pagead/1p-user-list/811441815/?random=1776084134103&cv=11&fst=1776081600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v878783017z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=12&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1wEABaugfdBtFshSrr8DOoNRHclQz89JZTWiqWTq23PHNwA-ODbcfpoTUxInbAPEW0-Bb5uFgdv8vbX-4XP6uJ2d4WomQUlzHRqxYBCzbxwDdtIrFujhGJRnSZEnIopMgpxS77-0mGGRmGO5sMCIkQY5qNyjUyE0i_YeUNcDbhhduONN12PRtsWy-RbGOaRE_NZzh2870BPPAKYZ-98TGadSnUbzrK7L7ccNgPwITbKUWSpAkNMb55sxZODMgs-9lMDAQLzYikyrsLCXByVMO2kMn0ZL26xY6A&random=3933915791&rmt_tld=1&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1000353713&t=pageview&_s=1&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&ul=en-us&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&sr=1280x720&vp=1265x720&_u=YADAAAABAAAAAC~&jid=1927837085&gjid=1327451916&cid=436575670.1776084134&tid=UA-20875335-1&_gid=134358093.1776084134&_r=1&_slc=1&gtm=45He6481n715NSPHGv72423080za200zd72423080&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266400~117384405&z=1977977611",
+      "status": 200,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-XHNTE5RRF4&cid=436575670.1776084134&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&rcb=15&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=0~115938465~115938469~118128923",
+      "status": 204,
+      "resource_type": "ping"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGA&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=0&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=5015",
+      "status": 204,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGQ&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=2&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=0&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&en=FCP&epn.value=1072&_et=62&tfd=5093",
+      "status": 204,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://e.clarity.ms/collect",
+      "status": 204,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAACAGQ&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=3&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=1&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&en=page_view&_et=4&tfd=10103",
+      "status": 204,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/gTpTIWhbKpxADzTzkcabhXN4/styles__ltr.css",
+      "status": 200,
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/gTpTIWhbKpxADzTzkcabhXN4/recaptcha__en.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.google.com/pagead/form-data/16992256369?gtm=45be6481v9218375417za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&rcb=10&npa=0&frm=0&pscdl=noapi&ae=a&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/16992256369/?random=1776084142708&cv=11&fst=1776084142708&fmt=8&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v9218375417za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=10&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&gcp=5",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16992256369/?random=1776084142708&cv=11&fst=1776084142708&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v9218375417za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=10&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&rfmt=3&fmt=4",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.com/ccm/form-data/16992256369?gtm=45be6481v9218375417za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&rcb=10&npa=0&frm=0&ae=a&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&em=tv.1~em._TUhzHCK8glTx-RtnbPVRo-zRFbJt5_jdEa2itXfM0I&ecsid=2130652126.1776084143",
+      "status": 204,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.google.com/pagead/form-data/981478532?gtm=45be6481v9215161533za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&rcb=3&npa=0&frm=0&pscdl=noapi&ae=a&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/webworker.js?hl=en&v=gTpTIWhbKpxADzTzkcabhXN4",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/981478532/?random=1776084142751&cv=11&fst=1776084142751&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v9215161533za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=3&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&rfmt=3&fmt=4",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/981478532/?random=1776084142751&cv=11&fst=1776084142751&fmt=8&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v9215161533za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=3&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&gcp=5",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.google.com/pagead/form-data/811441815?gtm=45be6481v878783017za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&rcb=12&npa=0&frm=0&pscdl=noapi&ae=a&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/811441815/?random=1776084142799&cv=11&fst=1776084142799&fmt=8&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v878783017za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=12&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&gcp=5",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/811441815/?random=1776084142799&cv=11&fst=1776084142799&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v878783017za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=12&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&rfmt=3&fmt=4",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/16992256369/?random=1776084142708&cv=11&fst=1776081600000&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v9218375417za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=10&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1wEABaugffCFGWz6dy-Ex1P7qpZLL1LONkKAf_u5H37sbum0wYDbWwQ_F_p0j2KCXJroF3S2_3PHHoCkUWbo57T82pSIrYujkdzf1L_3R9T5ZNZz1W9qlRGMs4vVZ0pW2w1LPcf7uFNeTOQZDbs00UM84Mhh9raLyvo0EQtS4YQ7yBYlGeULQUwZM3KFeY4BkFypolMy9o_GKvReKjr4LnlCxAh5TISV48AcpOPcFVCFSQc3gO9jiY9CLjd-lGjFI84YDyjYl3XslZQz2Kg999ONBLUOmykNCw&random=475117202&rmt_tld=0&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.co.in/pagead/1p-user-list/16992256369/?random=1776084142708&cv=11&fst=1776081600000&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v9218375417za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=10&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1wEABaugffCFGWz6dy-Ex1P7qpZLL1LONkKAf_u5H37sbum0wYDbWwQ_F_p0j2KCXJroF3S2_3PHHoCkUWbo57T82pSIrYujkdzf1L_3R9T5ZNZz1W9qlRGMs4vVZ0pW2w1LPcf7uFNeTOQZDbs00UM84Mhh9raLyvo0EQtS4YQ7yBYlGeULQUwZM3KFeY4BkFypolMy9o_GKvReKjr4LnlCxAh5TISV48AcpOPcFVCFSQc3gO9jiY9CLjd-lGjFI84YDyjYl3XslZQz2Kg999ONBLUOmykNCw&random=475117202&rmt_tld=1&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/981478532/?random=1776084142751&cv=11&fst=1776081600000&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v9215161533za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=3&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1wEABaugff98UDkFVLwWcDxjOvlzDy24WrsTSDg7ItlZiWkwvz3MWoWuWe5tAwEhPB1VyL-zCWTK_s1TjlISsv4AmVGxtyQucT_44OVBnHAMLRlX1zf42CQs4QKh9VcUwdUh8wcs_PLNhCQfv4TnNYIvEJ626SWX7xH_6erPHRoD50geksvmVX0UmnsY1LmUd6GZFVDMsm7gp91Js5OwiF1ef43keRsgbAvTq_8YhBKWgh_iDfWyofzT1a_9VCpE4cWcItaiefKB4BJM04TC7ssMwVvn_A2Aqg&random=2371229975&rmt_tld=0&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.co.in/pagead/1p-user-list/981478532/?random=1776084142751&cv=11&fst=1776081600000&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v9215161533za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=3&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1wEABaugff98UDkFVLwWcDxjOvlzDy24WrsTSDg7ItlZiWkwvz3MWoWuWe5tAwEhPB1VyL-zCWTK_s1TjlISsv4AmVGxtyQucT_44OVBnHAMLRlX1zf42CQs4QKh9VcUwdUh8wcs_PLNhCQfv4TnNYIvEJ626SWX7xH_6erPHRoD50geksvmVX0UmnsY1LmUd6GZFVDMsm7gp91Js5OwiF1ef43keRsgbAvTq_8YhBKWgh_iDfWyofzT1a_9VCpE4cWcItaiefKB4BJM04TC7ssMwVvn_A2Aqg&random=2371229975&rmt_tld=1&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.co.in/pagead/1p-user-list/811441815/?random=1776084142799&cv=11&fst=1776081600000&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v878783017za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=12&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1wEABaugfdjPPBm14WpQVykrh1s8mTilxOQFjffEogNN3wiZOnI_X5riUWxm4sobTuqt1zTi549bwgF7o7zgsJpuYXXIJlMadD-Eo50pMw5RU9bc3uztanvWta3yvInn8mlu0k8bl5qkqQKwMWLoRP-fKTDYWSiTfUBUfbKGr4bwlfbyGdVFI1zK8kofdNCEBRiduIa2DlUUBFULMlHZUgyEdsGRO1Kuv5Y_r7fNTb8XnqWCm_O5btlnHvSwve7dqvZWWNmqcmqLzmIS20eExUI3X5gl4xkqPw&random=33551673&rmt_tld=1&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/811441815/?random=1776084142799&cv=11&fst=1776081600000&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v878783017za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=12&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1wEABaugfdjPPBm14WpQVykrh1s8mTilxOQFjffEogNN3wiZOnI_X5riUWxm4sobTuqt1zTi549bwgF7o7zgsJpuYXXIJlMadD-Eo50pMw5RU9bc3uztanvWta3yvInn8mlu0k8bl5qkqQKwMWLoRP-fKTDYWSiTfUBUfbKGr4bwlfbyGdVFI1zK8kofdNCEBRiduIa2DlUUBFULMlHZUgyEdsGRO1Kuv5Y_r7fNTb8XnqWCm_O5btlnHvSwve7dqvZWWNmqcmqLzmIS20eExUI3X5gl4xkqPw&random=33551673&rmt_tld=0&ipr=y",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/gTpTIWhbKpxADzTzkcabhXN4/recaptcha__en.js",
+      "status": 200,
+      "resource_type": "other"
+    },
+    {
+      "url": "https://www.google.com/ccm/form-data/981478532?gtm=45be6481v9215161533za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&rcb=3&npa=0&frm=0&ae=a&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&em=tv.1~em._TUhzHCK8glTx-RtnbPVRo-zRFbJt5_jdEa2itXfM0I&ecsid=272949277.1776084143",
+      "status": 204,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/form-data/811441815?gtm=45be6481v878783017za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&rcb=12&npa=0&frm=0&ae=a&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&em=tv.1~em._TUhzHCK8glTx-RtnbPVRo-zRFbJt5_jdEa2itXfM0I&ecsid=1884206909.1776084143",
+      "status": 204,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "status": 200,
+      "resource_type": "font"
+    },
+    {
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "status": 200,
+      "resource_type": "script"
+    },
+    {
+      "url": "https://e.clarity.ms/collect",
+      "status": 204,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://track.internshala.com/csp/0",
+      "status": 200,
+      "resource_type": "other"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=4713794&time=1776084143795&li_adsId=fab1da37-183f-46c9-853a-efbbb84ab9a8&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser",
+      "status": 302,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/attribution_trigger?pid=4713794&time=1776084143795&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://e.clarity.ms/collect",
+      "status": 204,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=4713794&time=1776084143795&li_adsId=fab1da37-183f-46c9-853a-efbbb84ab9a8&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&cookiesTest=true",
+      "status": 302,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/reload?k=6Lcqj0EsAAAAAL4K2T7--kNrAXT3_99tIuEQLZJF",
+      "status": 200,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/clr?k=6Lcqj0EsAAAAAL4K2T7--kNrAXT3_99tIuEQLZJF",
+      "status": 200,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D4713794%26time%3D1776084143795%26li_adsId%3Dfab1da37-183f-46c9-853a-efbbb84ab9a8%26url%3Dhttps%253A%252F%252Finternshala.com%252Flogin%252Fuser%26cookiesTest%3Dtrue%26liSync%3Dtrue",
+      "status": 302,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=4713794&time=1776084143795&li_adsId=fab1da37-183f-46c9-853a-efbbb84ab9a8&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&cookiesTest=true&liSync=true",
+      "status": 302,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://internshala.com/login/verify_ajax/user/dashboard",
+      "status": 200,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://px4.ads.linkedin.com/collect?v=2&fmt=js&pid=4713794&time=1776084143795&li_adsId=fab1da37-183f-46c9-853a-efbbb84ab9a8&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&cookiesTest=true&liSync=true&e_ipv6=AQKVTQz_0XT_2QAAAZ2G3VU_xMEvF6YpcRbrJuG_Q7CVzCn8_PDe1o4E67WFRlT7Epwx6qGBU1dU8JRz_Tex5LRL1EQk1mh5",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://track.internshala.com/csp/0",
+      "status": 200,
+      "resource_type": "other"
+    },
+    {
+      "url": "https://internshala.com/static/images/common/modal_error_background.svg",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://internshala.com//favicon.ico?v=5",
+      "status": 200,
+      "resource_type": "other"
+    },
+    {
+      "url": "https://sdk-03.moengage.com/v3/sdkconfig/web/H2AZG7O4X4KYQ8C362UKNTNW",
+      "status": 200,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://track.internshala.com/csp/0",
+      "status": 200,
+      "resource_type": "other"
+    },
+    {
+      "url": "https://sdk-03.moengage.com/v2/websdksettings?app_id=H2AZG7O4X4KYQ8C362UKNTNW",
+      "status": 200,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/insight_tag_errors.gif?v=2&pid=4713794&error=version%3A%20285%20%7C%20WebsiteActions-285-TypeError%3A%20Failed%20to%20fetch%3B%20ErrorData%3A%20%7B%22domain%22%3A%22internshala.com%22%2C%22requestFetcher%22%3A%22fetch-keepalive%22%2C%22body%22%3A%22H4sIAAAAAAAACl2PQUvDQBSE%2F0p4B08b223Sbrq3IloiHooNvYjIJnlNH242674NIrX%2FXaLiwdMwzPAxcwZPLYN%2BypXM1Dp%2FFsBNIB8PGJgGB3pRLAVE6hG0VGo1L3KZKymVgHboDTnQQC5icHwy1lw3Qw8CxmBBwylGz3o2%2B5fP7NCRm42MAQR402FF0SJoKH%2BL5Dn5TO6HepIqGHLkOk6ukp01DfboYnIzjIFxyncDx8RMbRDwjjVTxD11zthHfBuRY9mChkKhLOQiTzHPFuk6UzJdHbM6VfN2LZdLU8hiBQKIq2AcWxOxBX00llGApTvzQ4HJbMm4%2BGN64gb0GTzX%2B2gigk7zy0R5IPeKbek23v9hTtiDdqO1Avh7X%2FXhp9e7zfb25VDuywouX8ECpjiQAQAA%22%7D&href=https%3A%2F%2Finternshala.com%2Flogin%2Fuser",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://c.clarity.ms/c.gif",
+      "status": 302,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://sdk-03.moengage.com/v2/device/add?os=web&os_platform=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F140.0.0.0%20Safari%2F537.36&is_incognito=false&app_id=H2AZG7O4X4KYQ8C362UKNTNW&os_ver=Google%20Chrome&sdk_ver=2.54.12&model=Google%20Chrome&app_ver=1.0&device_ts=1776084147664&device_tz_offset=19800000&unique_id=de514124-d5dc-4016-aded-3444fcc4eb1c&device_tz=-330&device_unique_id=f9a60b0b-45ee-431c-b4c1-3def638181bd&subscription_type=vapid&vapid_public=BFzQZwTLG4r7iFaDGPM7P-CKDugj1Pr7dZeEPGKsfo8xTOcQ109BrtJPU7wJd9r0K6Az0xl7oP52AnmJMgEAFo0&environment=sdk-03.moengage.com&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser",
+      "status": 200,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/bcn?k=6Lcqj0EsAAAAAL4K2T7--kNrAXT3_99tIuEQLZJF",
+      "status": 200,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://sdk-03.moengage.com/v3/campaigns/inapp/live?sdk_ver=2.54.12&unique_id=de514124-d5dc-4016-aded-3444fcc4eb1c&os=web",
+      "status": 200,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=D16199C7C8B14EED84828C38A5401003&RedC=c.clarity.ms&MXFR=2C939ECEF65A62233CF989F4F25A6CFE",
+      "status": 302,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=D16199C7C8B14EED84828C38A5401003&MUID=2D0D543B12BB649816A043011343655D",
+      "status": 200,
+      "resource_type": "image"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGQ&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=1&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&_s=4&tfd=19068",
+      "status": 204,
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://e.clarity.ms/collect",
+      "status": 204,
+      "resource_type": "xhr"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/insight_tag_errors.gif?v=2&pid=4713794&error=version%3A%20285%20%7C%20WebsiteActions-285-TypeError%3A%20Failed%20to%20fetch%3B%20ErrorData%3A%20%7B%22domain%22%3A%22internshala.com%22%2C%22requestFetcher%22%3A%22fetch-keepalive%22%2C%22body%22%3A%22H4sIAAAAAAAACp1Uy27bMBD8FWMPPUmN7fgV3lyjKdwGRVEbuQSGsSLX8iIUqXKppkbqfy9oOWkctAmQi4jVzsw%2BRtQ91GwE1M1g3DsfXwxWGYgOXMdrCsLegepPhhlErghUbzwedSeD3rB%2FMTjPwPgK2YECdpGCky1afK99BRk0wYKCbYy1qLOzZ%2Fkz60t2Z41QgAxqLGnJ0RIomB%2BBXEvnd%2BezL9KxDMiOXSmdd51vFjVV5GJn5psglPLfvMQOJjRkcEeFcKQFlw7td%2FrRkMS5AQUbs%2Blq1N181N9M8t5Qj%2FJ%2Btxjm434x0VQMRoOLxGdZBnRiMZIBtUErlIHlS2xVIAWfGF1sg4pFg7qHWopFxEig8sE%2BqVyxuyUzd9O6fpTZUgXKNdZmIIf%2Blrs6TT27ms%2B%2BQAbbQJtW1vhqGmPgookkSZ%2FsYeoFVegi65bYSh1T12ib5%2B%2BewiKWXzGZCFPIoEB9WwbfODOvsKRF0A84%2Flc8tfExdo7Ckn6lBcysF4K%2F5VoXW5xugvgACmp%2FsB%2F2R%2B7HFizPep2FpipkGYhA3dw%2FadfwT8jAxe1sy9aA6mXAyYq7gHV90H0JfX5EUwg%2BrCtv0EIG2qJI2uwNbNCkEdgdHo%2Ffaf4AfThl6%2B9g9XKx7onygZkbRuvLtzC1d5FcfAu18Gb3Gq93yiMRLGmdiiI7Cq%2FR%2Byf0oonRu%2F%2Bz8YWWi5h2X0SX14ErDLuDQV5ojTqmX9DRhPUxvU6EVQZ4ckMMRswNS8UioI627ferdBkv2UYKZD7sZpbTStsbuf8DG3gl%2B%2F0EAAA%3D%22%7D&href=https%3A%2F%2Finternshala.com%2Flogin%2Fuser",
+      "status": 200,
+      "resource_type": "image"
+    }
+  ],
+  "xhr_fetch_log": [
+    {
+      "url": "https://internshala.com/info/storeData",
+      "method": "POST",
+      "resource_type": "xhr",
+      "status": 200,
+      "request_headers": {
+        ":authority": "internshala.com",
+        ":method": "POST",
+        ":path": "/info/storeData",
+        ":scheme": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.9",
+        "content-length": "9",
+        "content-type": "application/x-www-form-urlencoded",
+        "cookie": "AWSALBTG=DjwdZw1qHbMVQFeFp0osAyptNWozGhRAGQSirgk0JDZiDHN/f88zvLxz3arJku2CknRG4OtAvOO/LWarGIgrovy+SJ9/pKVQatDkX4dEhkwc9DkpzqMFBgeO5lpiG8m20aDJGV5czUoWKPNZwgzaiFX+gxHYRp2snxKQTxjz1qWPZXEbWUg=; AWSALBTGCORS=DjwdZw1qHbMVQFeFp0osAyptNWozGhRAGQSirgk0JDZiDHN/f88zvLxz3arJku2CknRG4OtAvOO/LWarGIgrovy+SJ9/pKVQatDkX4dEhkwc9DkpzqMFBgeO5lpiG8m20aDJGV5czUoWKPNZwgzaiFX+gxHYRp2snxKQTxjz1qWPZXEbWUg=; AWSALB=BtTqnbwbOZJEWvsvjdw7t77a0XYTcMQDFSNLtXeVFBd3+r07ehrlAf0949SwGV+qeJ1klp1VRV51nWv3ho89BOT8M3RZ3Z9ZFZ4tbQhr+vs7ZRt7PQ1wUkFirDHp; AWSALBCORS=BtTqnbwbOZJEWvsvjdw7t77a0XYTcMQDFSNLtXeVFBd3+r07ehrlAf0949SwGV+qeJ1klp1VRV51nWv3ho89BOT8M3RZ3Z9ZFZ4tbQhr+vs7ZRt7PQ1wUkFirDHp; csrf_cookie_name=a80cfb874ac840c283fedbdee2e388f7; vtc_ftud_ad=%7B%22set_timestamp%22%3A%222026-04-13%2018%3A12%3A08%22%7D; isc=1iuh1k4vvm4ocgku4b6jivia8oq88hlk; ists=0; spui=0; pdc_new=c3d4e8bc93a68d20b0236b92aa8e5b74; pdcVersion=2; PHPSESSID=6ml9bqegneaptkm393rlj4j65srsgr3n; persistentSession=8c5e0bd82727de1d; persistentSessionDateTimeStamp=1776018600; sessionToken=541801c8; toUpdatePersistentSession=2; u=1",
+        "origin": "https://internshala.com",
+        "priority": "u=1, i",
+        "referer": "https://internshala.com/login/user",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-origin",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "x-requested-with": "XMLHttpRequest"
+      },
+      "response_headers": {
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "Content-Type, Authorization, X-Requested-With, X-Csrf-Token, X-Auth-Token-Is",
+        "access-control-allow-methods": "GET, POST, OPTIONS",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "no-store, no-cache, must-revalidate",
+        "content-encoding": "gzip",
+        "content-security-policy": "default-src 'self' https://internshala.com https://*.internshala.com; img-src 'self' https://internshala.com https://*.internshala.com https://s3-ap-south-1.amazonaws.com/internshala-uploads-new/ https://internshala-uploads-new.s3-ap-south-1.amazonaws.com/ https://s3-ap-southeast-1.amazonaws.com/internshala-uploads/ https://internshala-uploads.s3-ap-southeast-1.amazonaws.com/ https://s3-ap-south-1.amazonaws.com/isp-uploads/ https://isp-uploads.s3-ap-south-1.amazonaws.com/ https://*.google.com https://*.google-analytics.com https://*.g.doubleclick.net data: https://pagead2.googlesyndication.com https://maps.gstatic.com https://www.googletagmanager.com https://conv.indeed.com https://csi.gstatic.com https://*.facebook.com https://*.linkedin.com https://p.adsymptotic.com https://*.clarity.ms https://*.bing.com blob: https://*.calendly.com https://calendly.com https://internshala-uploads.internshala.com/ https://training-uploads.internshala.com/ https://*.googleusercontent.com https://cdn.ischoolconnect.com/ https://d1aeya7jd2fyco.cloudfront.net/ https://cache.careers360.mobi/ https://www.paynimo.com https://moe-email-campaigns.s3.amazonaws.com https://image.moengage.com/ https://*.moengage.com https://internshala-uploads-private.s3.ap-south-1.amazonaws.com/ https://moe-email-campaigns.s3.amazonaws.com/ https://image-eu.moengage.com/ https://image-ap1.moengage.com/ https://image-04.moengage.com/ https://image-06.moengage.com/ https://image.moengage.com/all-campaign-images-moe-dc-100/ https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr; media-src 'self' https://internshala.com https://*.internshala.com https://s3-ap-south-1.amazonaws.com/internshala-uploads-new/ https://internshala-uploads-new.s3-ap-south-1.amazonaws.com/ https://s3-ap-southeast-1.amazonaws.com/internshala-uploads/ https://internshala-uploads.s3-ap-southeast-1.amazonaws.com/ https://s3.ap-south-1.amazonaws.com/internshala-ai/ https://internshala-ai.s3.ap-south-1.amazonaws.com/ https://www.paynimo.com data: https://internshala-uploads.internshala.com/ https://training-uploads.internshala.com/ https://shadowing-ai.s3.ap-south-1.amazonaws.com/ blob: https://*.moengage.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' 'nonce-WPZNF0L3PKNwsDBA07mV5g==' https://internshala.com https://*.internshala.com https://*.google.com https://*.googletagmanager.com https://*.googleadservices.com https://www.googleadservices.com https://*.facebook.net https://*.facebook.com https://*.googleads.g.doubleclick.net https://*.jquery.com https://*.bootstrapcdn.com https://*.google-analytics.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://*.gstatic.com https://*.linkedin.com https://snap.licdn.com https://*.clarity.ms https://*.calendly.com https://calendly.com https://www.paynimo.com https://cdn.moengage.com https://app-cdn.moengage.com https://*.moengage.com https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr; style-src 'self' 'unsafe-inline' https://internshala.com https://*.internshala.com https://*.bootstrapcdn.com https://fonts.googleapis.com https://*.google.com https://*.calendly.com https://www.paynimo.com https://*.moengage.com https://cdn.moengage.com/ https://app-cdn.moengage.com/ https://fonts.bunny.net/; font-src 'self' data: https://internshala.com https://canary.internshala.com https://*.internshala.com https://fonts.googleapis.com https://*.gstatic.com https://*.bootstrapcdn.com https://*.google.com https://www.paynimo.com https://*.moengage.com https://fonts.bunny.net/; frame-src https://*.facebook.com https://*.facebook.net https://*.doubleclick.net https://*.google.com https://*.googletagmanager.com https://*.linkedin.com https://*.youtube.com https://*.ccavenue.com https://content.googleapis.com https://content-youtube.googleapis.com/ https://*.calendly.com https://calendly.com https://*.googlesyndication.com https://static.internshala.in/ https://internshala.com https://*.internshala.com https://s3-ap-south-1.amazonaws.com/internshala-test-uploads-new https://s3-ap-south-1.amazonaws.com/internshala-uploads-new https://*.moengage.com https://cdn.moengage.com; manifest-src 'self'; frame-ancestors 'self' https://internshala.com https://*.internshala.com; object-src 'none'; connect-src 'self' wss://internshala.com wss://*.internshala.com https://*.google.com https://*.google-analytics.com https://*.googletagmanager.com/ https://*.doubleclick.net https://*.facebook.com https://*.instagram.com https://*.clarity.ms https://pagead2.googlesyndication.com https://cdn.linkedin.oribi.io/ https://br.internshala.com/ https://www.paynimo.com https://securepg.paynimo.com https://sdk-01.moengage.com https://sdk-02.moengage.com https://sdk-03.moengage.com https://sdk-04.moengage.com https://*.moengage.com https://moe-email-campaigns.s3.amazonaws.com/ https://image.moengage.com/ https://image-eu.moengage.com/ https://image-ap1.moengage.com/ https://image-04.moengage.com/ https://image-06.moengage.com/ https://image.moengage.com/all-campaign-images-moe-dc-100/ https://sdk-06.moengage.com/ https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr; base-uri 'self'; report-uri https://track.internshala.com/csp/0; script-src-elem 'self' 'unsafe-eval' 'unsafe-inline' 'nonce-27/z1uG6wpxUTfisbbHYYA==' https://internshala.com https://*.internshala.com https://*.google.com https://*.googletagmanager.com https://*.googleadservices.com https://www.googleadservices.com https://*.facebook.net https://*.facebook.com https://*.googleads.g.doubleclick.net https://*.jquery.com https://*.bootstrapcdn.com https://*.google-analytics.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://*.gstatic.com https://*.linkedin.com https://snap.licdn.com https://*.clarity.ms https://*.calendly.com https://calendly.com https://www.paynimo.com https://cdn.moengage.com https://app-cdn.moengage.com https://*.moengage.com https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr;",
+        "content-type": "application/json; charset=utf-8",
+        "date": "Mon, 13 Apr 2026 12:42:09 GMT",
+        "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+        "pragma": "no-cache",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "nginx",
+        "set-cookie": "AWSALBTG=QT1zoNiOASpHIT6bO7jHMg/YZ/4hxJOp+U2V+5olpPUjdozYqyPdiffe2KUOJFdKO098NeR2ZWSVzvdNA103Btwj1pPYwPIr6qBBfO0eQQfE+YWFZDQNy2UAXpCSPcrcyaxtCXLOo/ddGUe0LZDTbDVq1qZojuB7PgH2ZlnAgHmX2FaikkY=; Expires=Mon, 20 Apr 2026 12:42:09 GMT; Path=/\nAWSALBTGCORS=QT1zoNiOASpHIT6bO7jHMg/YZ/4hxJOp+U2V+5olpPUjdozYqyPdiffe2KUOJFdKO098NeR2ZWSVzvdNA103Btwj1pPYwPIr6qBBfO0eQQfE+YWFZDQNy2UAXpCSPcrcyaxtCXLOo/ddGUe0LZDTbDVq1qZojuB7PgH2ZlnAgHmX2FaikkY=; Expires=Mon, 20 Apr 2026 12:42:09 GMT; Path=/; SameSite=None; Secure\nAWSALB=PbqMbSy5VavnnFI+GxarV29/L6Fxy7mu0bXnkXOWe5ODdSx0Q3BqCA+ghOnPiy+PdqwRT+2P+wHp7cJKbm0TT2wLjUzHqq+kqd9kZiUfaRJ8Ant1KDz+kqJ1gkw5; Expires=Mon, 20 Apr 2026 12:42:09 GMT; Path=/\nAWSALBCORS=PbqMbSy5VavnnFI+GxarV29/L6Fxy7mu0bXnkXOWe5ODdSx0Q3BqCA+ghOnPiy+PdqwRT+2P+wHp7cJKbm0TT2wLjUzHqq+kqd9kZiUfaRJ8Ant1KDz+kqJ1gkw5; Expires=Mon, 20 Apr 2026 12:42:09 GMT; Path=/; SameSite=None; Secure\nPHPSESSID=6ml9bqegneaptkm393rlj4j65srsgr3n; path=/; secure; HttpOnly; SameSite=Lax\ncsrf_cookie_name=a80cfb874ac840c283fedbdee2e388f7; expires=Tue, 14-Apr-2026 12:42:09 GMT; Max-Age=86400; path=/; secure; HttpOnly; SameSite=Strict",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "via": "1.1 98146042347bbf1ec242c7292cb2550a.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "MlJgdj5UYFlklAKDD577VlB8DzQfbxTl_cNThZzzYfM95QbXUFJFqA==",
+        "x-amz-cf-pop": "PNQ50-P2",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block"
+      },
+      "request_post_data": "device=NA",
+      "response_body_preview": "{\"success\":true,\"toMakeUpdateRequest\":false}",
+      "response_content_type": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=4&frm=0&ae=g&en=page_view&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&scrsrc=www.googletagmanager.com&rnd=608714727.1776084131&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&auid=263776112.1776084131&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6481v72423080za200zd72423080xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266400~117384405&apve=1&apvf=f&apvc=1&tft=1776084131613&tfd=2324",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 200,
+      "request_headers": {},
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "request_headers_error": ": string indices must be integers, not 'str'",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/16992256369/?random=1776084133541&cv=11&fst=1776084133541&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v9218375417z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=10&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&gcp=5",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 200,
+      "request_headers": {},
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "request_headers_error": ": string indices must be integers, not 'str'",
+      "response_body_error": "Response.body: string indices must be integers, not 'str'"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/811441815/?random=1776084134103&cv=11&fst=1776084134103&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v878783017z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=12&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&gcp=5",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 200,
+      "request_headers": {},
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "request_headers_error": ": string indices must be integers, not 'str'",
+      "response_body_error": "Response.body: string indices must be integers, not 'str'"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=10&frm=0&en=page_view&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&scrsrc=www.googletagmanager.com&rnd=608714727.1776084131&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&auid=263776112.1776084131&navt=n&npa=0&gtm=45be6481v9218375417z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&apve=1&apvf=f&apvc=0&tids=AW-16992256369&tid=AW-16992256369&tft=1776084133677&tfd=4388",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 200,
+      "request_headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://internshala.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/981478532/?random=1776084133742&cv=11&fst=1776084133742&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v9215161533z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=3&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&gcp=5",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 200,
+      "request_headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://internshala.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&en=page_view&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&scrsrc=www.googletagmanager.com&rnd=608714727.1776084131&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&auid=263776112.1776084131&navt=n&npa=0&gtm=45be6481v9215161533z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&apve=1&apvf=f&apvc=0&tids=AW-981478532&tid=AW-981478532&tft=1776084134011&tfd=4723",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 200,
+      "request_headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://internshala.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGQ&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=2&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=0&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&en=FCP&epn.value=1072&_et=62&tfd=5093",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 204,
+      "request_headers": {},
+      "response_headers": {
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://internshala.com",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "cache-control": "no-cache, no-store, must-revalidate",
+        "content-length": "0",
+        "content-security-policy-report-only": "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:195:0",
+        "content-type": "text/plain",
+        "cross-origin-opener-policy-report-only": "same-origin; report-to=ascnsrsggc:195:0",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Mon, 13 Apr 2026 12:42:14 GMT",
+        "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+        "pragma": "no-cache",
+        "report-to": "{\"group\":\"ascnsrsggc:195:0\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:195:0\"}],}",
+        "server": "Golfe2"
+      },
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "text/plain",
+      "request_headers_error": ": string indices must be integers, not 'str'",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&en=page_view&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&scrsrc=www.googletagmanager.com&rnd=608714727.1776084131&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&auid=263776112.1776084131&navt=n&npa=0&gtm=45be6481v878783017z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&apve=1&apvf=f&apvc=0&tids=AW-811441815&tid=AW-811441815&tft=1776084134238&tfd=4949",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 200,
+      "request_headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://internshala.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1000353713&t=pageview&_s=1&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&ul=en-us&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&sr=1280x720&vp=1265x720&_u=YADAAAABAAAAAC~&jid=1927837085&gjid=1327451916&cid=436575670.1776084134&tid=UA-20875335-1&_gid=134358093.1776084134&_r=1&_slc=1&gtm=45He6481n715NSPHGv72423080za200zd72423080&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266400~117384405&z=1977977611",
+      "method": "POST",
+      "resource_type": "xhr",
+      "status": 200,
+      "request_headers": {
+        ":authority": "www.google-analytics.com",
+        ":method": "POST",
+        ":path": "/j/collect?v=1&_v=j102&a=1000353713&t=pageview&_s=1&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&ul=en-us&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&sr=1280x720&vp=1265x720&_u=YADAAAABAAAAAC~&jid=1927837085&gjid=1327451916&cid=436575670.1776084134&tid=UA-20875335-1&_gid=134358093.1776084134&_r=1&_slc=1&gtm=45He6481n715NSPHGv72423080za200zd72423080&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266400~117384405&z=1977977611",
+        ":scheme": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.9",
+        "content-length": "0",
+        "content-type": "text/plain",
+        "origin": "https://internshala.com",
+        "priority": "u=1, i",
+        "referer": "https://internshala.com/",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "cross-site",
+        "sec-fetch-storage-access": "active",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+      },
+      "response_headers": {
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://internshala.com",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "cache-control": "no-cache, no-store, must-revalidate",
+        "content-length": "3",
+        "content-security-policy-report-only": "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsgac:207:0",
+        "content-type": "text/plain",
+        "cross-origin-opener-policy-report-only": "same-origin; report-to=ascnsrsgac:207:0",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Mon, 13 Apr 2026 12:42:13 GMT",
+        "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+        "last-modified": "Sun, 17 May 1998 03:00:00 GMT",
+        "pragma": "no-cache",
+        "report-to": "{\"group\":\"ascnsrsgac:207:0\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsgac:207:0\"}],}",
+        "server": "Golfe2",
+        "x-content-type-options": "nosniff"
+      },
+      "request_post_data": "",
+      "response_body_preview": "2,x",
+      "response_content_type": "text/plain"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGA&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=0&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=5015",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 204,
+      "request_headers": {
+        ":authority": "analytics.google.com",
+        ":method": "POST",
+        ":path": "/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGA&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=0&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=5015",
+        ":scheme": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.9",
+        "content-length": "0",
+        "origin": "https://internshala.com",
+        "priority": "u=1, i",
+        "referer": "https://internshala.com/",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "no-cors",
+        "sec-fetch-site": "cross-site",
+        "sec-fetch-storage-access": "active",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+      },
+      "response_headers": {
+        "access-control-allow-credentials": "true",
+        "access-control-allow-origin": "https://internshala.com",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "cache-control": "no-cache, no-store, must-revalidate",
+        "content-length": "0",
+        "content-security-policy-report-only": "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:195:0",
+        "content-type": "text/plain",
+        "cross-origin-opener-policy-report-only": "same-origin; report-to=ascnsrsggc:195:0",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Mon, 13 Apr 2026 12:42:14 GMT",
+        "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+        "pragma": "no-cache",
+        "report-to": "{\"group\":\"ascnsrsggc:195:0\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:195:0\"}],}",
+        "server": "Golfe2"
+      },
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "text/plain",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAACAGQ&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=3&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=1&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&en=page_view&_et=4&tfd=10103",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 204,
+      "request_headers": {
+        ":authority": "analytics.google.com",
+        ":method": "POST",
+        ":path": "/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAACAGQ&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=3&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=1&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&en=page_view&_et=4&tfd=10103",
+        ":scheme": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.9",
+        "content-length": "0",
+        "origin": "https://internshala.com",
+        "priority": "u=1, i",
+        "referer": "https://internshala.com/",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "no-cors",
+        "sec-fetch-site": "cross-site",
+        "sec-fetch-storage-access": "active",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+      },
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "response_headers_error": "Response.all_headers: string indices must be integers, not 'str'",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://www.google.com/pagead/form-data/16992256369?gtm=45be6481v9218375417za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&rcb=10&npa=0&frm=0&pscdl=noapi&ae=a&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 200,
+      "request_headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://internshala.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "response_body_error": "Response.body: string indices must be integers, not 'str'"
+    },
+    {
+      "url": "https://www.google.com/pagead/form-data/981478532?gtm=45be6481v9215161533za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&rcb=3&npa=0&frm=0&pscdl=noapi&ae=a&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 200,
+      "request_headers": {},
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "request_headers_error": ": string indices must be integers, not 'str'",
+      "response_body_error": "Response.body: string indices must be integers, not 'str'"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/16992256369/?random=1776084142708&cv=11&fst=1776084142708&fmt=8&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v9218375417za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=10&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&gcp=5",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 200,
+      "request_headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://internshala.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://www.google.com/ccm/form-data/16992256369?gtm=45be6481v9218375417za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&rcb=10&npa=0&frm=0&ae=a&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&em=tv.1~em._TUhzHCK8glTx-RtnbPVRo-zRFbJt5_jdEa2itXfM0I&ecsid=2130652126.1776084143",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 204,
+      "request_headers": {
+        ":authority": "www.google.com",
+        ":method": "POST",
+        ":path": "/ccm/form-data/16992256369?gtm=45be6481v9218375417za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&rcb=10&npa=0&frm=0&ae=a&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&em=tv.1~em._TUhzHCK8glTx-RtnbPVRo-zRFbJt5_jdEa2itXfM0I&ecsid=2130652126.1776084143",
+        ":scheme": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.9",
+        "content-length": "0",
+        "origin": "https://internshala.com",
+        "priority": "u=1, i",
+        "referer": "https://internshala.com/",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "no-cors",
+        "sec-fetch-site": "cross-site",
+        "sec-fetch-storage-access": "active",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+      },
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "response_headers_error": "Response.all_headers: string indices must be integers, not 'str'",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/981478532/?random=1776084142751&cv=11&fst=1776084142751&fmt=8&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v9215161533za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=3&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&gcp=5",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 200,
+      "request_headers": {},
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "request_headers_error": ": string indices must be integers, not 'str'",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://www.google.com/pagead/form-data/811441815?gtm=45be6481v878783017za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&rcb=12&npa=0&frm=0&pscdl=noapi&ae=a&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 200,
+      "request_headers": {},
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "request_headers_error": ": string indices must be integers, not 'str'",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/811441815/?random=1776084142799&cv=11&fst=1776084142799&fmt=8&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v878783017za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=12&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&gcp=5",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 200,
+      "request_headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://internshala.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://www.google.com/ccm/form-data/981478532?gtm=45be6481v9215161533za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&rcb=3&npa=0&frm=0&ae=a&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&em=tv.1~em._TUhzHCK8glTx-RtnbPVRo-zRFbJt5_jdEa2itXfM0I&ecsid=272949277.1776084143",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 204,
+      "request_headers": {
+        ":authority": "www.google.com",
+        ":method": "POST",
+        ":path": "/ccm/form-data/981478532?gtm=45be6481v9215161533za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&rcb=3&npa=0&frm=0&ae=a&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&em=tv.1~em._TUhzHCK8glTx-RtnbPVRo-zRFbJt5_jdEa2itXfM0I&ecsid=272949277.1776084143",
+        ":scheme": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.9",
+        "content-length": "0",
+        "origin": "https://internshala.com",
+        "priority": "u=1, i",
+        "referer": "https://internshala.com/",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "no-cors",
+        "sec-fetch-site": "cross-site",
+        "sec-fetch-storage-access": "active",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+      },
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "response_headers_error": "Response.all_headers: string indices must be integers, not 'str'",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://www.google.com/ccm/form-data/811441815?gtm=45be6481v878783017za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&rcb=12&npa=0&frm=0&ae=a&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&em=tv.1~em._TUhzHCK8glTx-RtnbPVRo-zRFbJt5_jdEa2itXfM0I&ecsid=1884206909.1776084143",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 204,
+      "request_headers": {
+        ":authority": "www.google.com",
+        ":method": "POST",
+        ":path": "/ccm/form-data/811441815?gtm=45be6481v878783017za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&rcb=12&npa=0&frm=0&ae=a&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&ec_mode=a&em=tv.1~em._TUhzHCK8glTx-RtnbPVRo-zRFbJt5_jdEa2itXfM0I&ecsid=1884206909.1776084143",
+        ":scheme": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.9",
+        "content-length": "0",
+        "origin": "https://internshala.com",
+        "priority": "u=1, i",
+        "referer": "https://internshala.com/",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "no-cors",
+        "sec-fetch-site": "cross-site",
+        "sec-fetch-storage-access": "active",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+      },
+      "response_headers": {},
+      "request_post_data": "",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "response_headers_error": "Response.all_headers: string indices must be integers, not 'str'",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://internshala.com/login/verify_ajax/user/dashboard",
+      "method": "POST",
+      "resource_type": "xhr",
+      "status": 200,
+      "request_headers": {},
+      "response_headers": {
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "Content-Type, Authorization, X-Requested-With, X-Csrf-Token, X-Auth-Token-Is",
+        "access-control-allow-methods": "GET, POST, OPTIONS",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "no-store, no-cache, must-revalidate",
+        "content-encoding": "gzip",
+        "content-security-policy": "default-src 'self' https://internshala.com https://*.internshala.com; img-src 'self' https://internshala.com https://*.internshala.com https://s3-ap-south-1.amazonaws.com/internshala-uploads-new/ https://internshala-uploads-new.s3-ap-south-1.amazonaws.com/ https://s3-ap-southeast-1.amazonaws.com/internshala-uploads/ https://internshala-uploads.s3-ap-southeast-1.amazonaws.com/ https://s3-ap-south-1.amazonaws.com/isp-uploads/ https://isp-uploads.s3-ap-south-1.amazonaws.com/ https://*.google.com https://*.google-analytics.com https://*.g.doubleclick.net data: https://pagead2.googlesyndication.com https://maps.gstatic.com https://www.googletagmanager.com https://conv.indeed.com https://csi.gstatic.com https://*.facebook.com https://*.linkedin.com https://p.adsymptotic.com https://*.clarity.ms https://*.bing.com blob: https://*.calendly.com https://calendly.com https://internshala-uploads.internshala.com/ https://training-uploads.internshala.com/ https://*.googleusercontent.com https://cdn.ischoolconnect.com/ https://d1aeya7jd2fyco.cloudfront.net/ https://cache.careers360.mobi/ https://www.paynimo.com https://moe-email-campaigns.s3.amazonaws.com https://image.moengage.com/ https://*.moengage.com https://internshala-uploads-private.s3.ap-south-1.amazonaws.com/ https://moe-email-campaigns.s3.amazonaws.com/ https://image-eu.moengage.com/ https://image-ap1.moengage.com/ https://image-04.moengage.com/ https://image-06.moengage.com/ https://image.moengage.com/all-campaign-images-moe-dc-100/ https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr; media-src 'self' https://internshala.com https://*.internshala.com https://s3-ap-south-1.amazonaws.com/internshala-uploads-new/ https://internshala-uploads-new.s3-ap-south-1.amazonaws.com/ https://s3-ap-southeast-1.amazonaws.com/internshala-uploads/ https://internshala-uploads.s3-ap-southeast-1.amazonaws.com/ https://s3.ap-south-1.amazonaws.com/internshala-ai/ https://internshala-ai.s3.ap-south-1.amazonaws.com/ https://www.paynimo.com data: https://internshala-uploads.internshala.com/ https://training-uploads.internshala.com/ https://shadowing-ai.s3.ap-south-1.amazonaws.com/ blob: https://*.moengage.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' 'nonce-/fUm3P5SeOh7EiYM7Cebyw==' https://internshala.com https://*.internshala.com https://*.google.com https://*.googletagmanager.com https://*.googleadservices.com https://www.googleadservices.com https://*.facebook.net https://*.facebook.com https://*.googleads.g.doubleclick.net https://*.jquery.com https://*.bootstrapcdn.com https://*.google-analytics.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://*.gstatic.com https://*.linkedin.com https://snap.licdn.com https://*.clarity.ms https://*.calendly.com https://calendly.com https://www.paynimo.com https://cdn.moengage.com https://app-cdn.moengage.com https://*.moengage.com https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr; style-src 'self' 'unsafe-inline' https://internshala.com https://*.internshala.com https://*.bootstrapcdn.com https://fonts.googleapis.com https://*.google.com https://*.calendly.com https://www.paynimo.com https://*.moengage.com https://cdn.moengage.com/ https://app-cdn.moengage.com/ https://fonts.bunny.net/; font-src 'self' data: https://internshala.com https://canary.internshala.com https://*.internshala.com https://fonts.googleapis.com https://*.gstatic.com https://*.bootstrapcdn.com https://*.google.com https://www.paynimo.com https://*.moengage.com https://fonts.bunny.net/; frame-src https://*.facebook.com https://*.facebook.net https://*.doubleclick.net https://*.google.com https://*.googletagmanager.com https://*.linkedin.com https://*.youtube.com https://*.ccavenue.com https://content.googleapis.com https://content-youtube.googleapis.com/ https://*.calendly.com https://calendly.com https://*.googlesyndication.com https://static.internshala.in/ https://internshala.com https://*.internshala.com https://s3-ap-south-1.amazonaws.com/internshala-test-uploads-new https://s3-ap-south-1.amazonaws.com/internshala-uploads-new https://*.moengage.com https://cdn.moengage.com; manifest-src 'self'; frame-ancestors 'self' https://internshala.com https://*.internshala.com; object-src 'none'; connect-src 'self' wss://internshala.com wss://*.internshala.com https://*.google.com https://*.google-analytics.com https://*.googletagmanager.com/ https://*.doubleclick.net https://*.facebook.com https://*.instagram.com https://*.clarity.ms https://pagead2.googlesyndication.com https://cdn.linkedin.oribi.io/ https://br.internshala.com/ https://www.paynimo.com https://securepg.paynimo.com https://sdk-01.moengage.com https://sdk-02.moengage.com https://sdk-03.moengage.com https://sdk-04.moengage.com https://*.moengage.com https://moe-email-campaigns.s3.amazonaws.com/ https://image.moengage.com/ https://image-eu.moengage.com/ https://image-ap1.moengage.com/ https://image-04.moengage.com/ https://image-06.moengage.com/ https://image.moengage.com/all-campaign-images-moe-dc-100/ https://sdk-06.moengage.com/ https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr; base-uri 'self'; report-uri https://track.internshala.com/csp/0; script-src-elem 'self' 'unsafe-eval' 'unsafe-inline' 'nonce-VXQrT31Ijs1kVwzCwxy9Iw==' https://internshala.com https://*.internshala.com https://*.google.com https://*.googletagmanager.com https://*.googleadservices.com https://www.googleadservices.com https://*.facebook.net https://*.facebook.com https://*.googleads.g.doubleclick.net https://*.jquery.com https://*.bootstrapcdn.com https://*.google-analytics.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://*.gstatic.com https://*.linkedin.com https://snap.licdn.com https://*.clarity.ms https://*.calendly.com https://calendly.com https://www.paynimo.com https://cdn.moengage.com https://app-cdn.moengage.com https://*.moengage.com https://*.google.com.uk https://*.google.com.br https://*.google.com.mx https://*.google.com.ar https://*.google.com.tr https://*.google.com.hk https://*.google.com.sg https://*.google.com.sa https://*.google.com.ua https://*.google.com.tw https://*.google.com.my https://*.google.com.ph https://*.google.com.bd https://*.google.com.ng https://*.google.com.gh https://*.google.com.pk https://*.google.com.bh https://*.google.com.np https://*.google.com.eg https://*.google.com.om https://*.google.com.cy https://*.google.co.au https://*.google.co.jp https://*.google.co.kr https://*.google.co.in https://*.google.co.id https://*.google.co.za https://*.google.co.uk https://*.google.co.ma https://*.google.ca https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ru https://*.google.cn https://*.google.tg https://*.google.lv https://*.google.ba https://*.google.ae https://*.google.lk https://www.google.co.ma https://www.google.com.ng https://www.google.com.bd https://www.google.com.pk https://www.google.com.sa https://www.google.com.ph https://www.google.com.af https://www.google.com.kw https://www.google.com.gh https://www.google.ca https://www.google.ae https://www.google.nl https://www.google.fr https://www.google.de https://www.google.gr;",
+        "content-type": "application/json; charset=utf-8",
+        "date": "Mon, 13 Apr 2026 12:42:26 GMT",
+        "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+        "pragma": "no-cache",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "nginx",
+        "set-cookie": "AWSALBTG=zgIYqFFnrp7D9B+tKAV0qsWBmSAnDDcMvvwHVVrxOd9qEdMsmF6PE2G0CKeg0EQkcDiHpRCOSi9oPuP1DhCePeaM1J7XT6XGPYTLUwHpDvWJs5OqOI5WyMlTGNPmEd6OGEz42EUZOUPnbebGnizAjwfPFk2wzTDAFNeE7UgcVYrYxDI7Hpg=; Expires=Mon, 20 Apr 2026 12:42:25 GMT; Path=/\nAWSALBTGCORS=zgIYqFFnrp7D9B+tKAV0qsWBmSAnDDcMvvwHVVrxOd9qEdMsmF6PE2G0CKeg0EQkcDiHpRCOSi9oPuP1DhCePeaM1J7XT6XGPYTLUwHpDvWJs5OqOI5WyMlTGNPmEd6OGEz42EUZOUPnbebGnizAjwfPFk2wzTDAFNeE7UgcVYrYxDI7Hpg=; Expires=Mon, 20 Apr 2026 12:42:25 GMT; Path=/; SameSite=None; Secure\nAWSALB=KrYjSf2+AjxfLMcgl/E+GY0FynU+gDHxr9yzPWUYFyIMq2BfeFkPJ7VJkb707sz+nPf4VqKVs2jymAp20YqUD6p3l1IVP2B3/3l3mdP6yeft60ubInOzcUSYUz+e; Expires=Mon, 20 Apr 2026 12:42:25 GMT; Path=/\nAWSALBCORS=KrYjSf2+AjxfLMcgl/E+GY0FynU+gDHxr9yzPWUYFyIMq2BfeFkPJ7VJkb707sz+nPf4VqKVs2jymAp20YqUD6p3l1IVP2B3/3l3mdP6yeft60ubInOzcUSYUz+e; Expires=Mon, 20 Apr 2026 12:42:25 GMT; Path=/; SameSite=None; Secure\nPHPSESSID=6ml9bqegneaptkm393rlj4j65srsgr3n; path=/; secure; HttpOnly; SameSite=Lax\ncsrf_cookie_name=a80cfb874ac840c283fedbdee2e388f7; expires=Tue, 14-Apr-2026 12:42:25 GMT; Max-Age=86400; path=/; secure; HttpOnly; SameSite=Strict",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "via": "1.1 98146042347bbf1ec242c7292cb2550a.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "OfDScpqGZUM2Mk-94inD-a_d40NK3fmZ4_vgBfR8u3-UKYg3NqC16g==",
+        "x-amz-cf-pop": "PNQ50-P2",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block"
+      },
+      "request_post_data": "source=&csrf_test_name=a80cfb874ac840c283fedbdee2e388f7&email=rarihant14%40gmail.com&password=Rathod%401200&g-recaptcha-response=0cAFcWeA49ysPmgA0LoPb1Zi57o2qZyIDYC4v1jU9XATFOosWlLZOegYETPHk19xBOPvp7LeGhyYMa9eIRmmmFL4oT3aGPJ5rFRqEipabiJg5iBXUaTX8HV9Zp8KxVk8q45y2_BlMXl9FfDRXG8caFTBMG0NyWgUbbPHHLXCnFGYoXWaU_m0zIMS-gy9GPZ2et0gLWLgOd5-wh1_c_BXQMLyZCAgVj8OuytgH3oC0aqzbty4Z_W8HfBCUBEKLm-6A8a60K4E9bdyZu3hhpSqSA7zrlC60KjYYaIXRSejpXbGcl_JOy0RDj_whaGCVIGaFFhA8MXzQRVR-vDIL6eXDJ6aXMD1NH0aWmrvgDhl5kxmR1EGy624YoOg4jmkhrRFVs4d12a68FcKCYRstKGpl7Fe36SMLybjKi68qz_7VDYpa06diMKm0h7MhTAjLHuwJYxme-CvDDsuqs1kEm-nViezIlq8eXVQ69_Hc5x1_DLgNTnxwcl3XtzW5eLNNb9P9qXEgNEEoCQNJD91s_GddeY18J1xasoVT_7Wx6-5TGxWhiNTz2esk2F7kOj178GvNtzefKkcHD5iQ7rl9lrUdsI6-nx3s58nO2XZ2rZjE5zBkqtKKzWhgozuXHoaH4dJyQ0D0NI-Gkgym1xU0EjAX-CwaMjKJ-eo5XQ-X3MYqL0wMpngeW4A_iqCfBcyRD03GPLpCxwdyOYl8hg0Ef68lUiOO-VndtE0gJ-FEalHm4V0bbh_EVI_9kuaUBVz3H83G8x25zvvQdIwLhKUOJtpaCiUV-t0VFxqsglSeF7SFEt4ZjTk0KUMtnL391aGl0LZwOnvePspLs1Fz13MZcbUF15KidbuXMPQN4kQf82JnShd4emR0X6LUTljx2UaBJwQEdNLWpKbNCTmvCm7xOpKpY5n2tCPWuJgEJTxaELAufo3ljKRJHsVf4UHPnMdnhJXY97XHz-Bb4ULprt5DxfsYNqH_xhIMNHY0cdTJi_yUCqehssUwkMXj37mRJJckMOPkA1n6wNPoWA0a6nFVk0xO-6idBsNSztMmyNaas8nRsvuCqbPUeK9GulqRgQV_tDXIOnIOKSnTv4g3kDZVDsbMB3LyNqC_DnQrcjacpX8IbaK7IgW4ZeS5JCG74-K1pLWpq8rOucm3podWoIPnZB8Agl8tNF82RpslAJEY1ZPFE8SSYae-MZC7YyMThzvrrKmUmrqO8stt-Lo5S8yJ6bk2_kEEIgRbAoc5gK9k68ejQrhTXnE9XfhoQyDqovY8zvDKBzZL627wQrPCtA77J2PZRf49C5zHRYr-sBh1HH0HGOiaCHmdhveEQ_m6d5esAtNfXhKPP6Mz4HFn0P8Xx-eM58fpX_K2q37uTAOQJ_hszQVpB8aV1BHm2Ab-jquxEA4OWuKVXB_wMnIgzqD4BBfYwtM7PTNcx4ryS6JfO8ZqSCmjHvkEX3pHtZjntW7TedexXHGMe-JjGUGApIVqsYaPD4B1oYPuyRFzu012KXhoVhvRH5B1wLm6mRBqtqAYlad4wDzYvouAjFDdRLNS1eOQV_SevYy9gIyTGBIBfdHj5TO2jo6JCZJk1jzCw5yF1zeqXtNUj5mQKbo51l4QjGKWg-oqcXgBv75pThnyaYtsvuYV_beUjNiFyLFRgQXfojkuzBFDKlXu3WAM_BGh_Xx5ihJAZGraLFyqmQKbmbZyo_bmJx12u-Gb3wKo_roUBQDYoRlSc_p3X4ahtpDWH47N8vXDYkvMQMR-aZ4zO0xVaLSD5BJpirByPKaQxQtqKQbnDaSmztd9JqUZ3cJ7scPrnfnEYpw5pSYKI04Uq_fc_XJcZ7RGrzjhnbQXCrBf1izJwYfxFewjfMFbEV3oqcpmktKhg4BAAGrxIBLq4h-MWKdCeFAP4fh2tAG7GuMhycMOdp_8qvOfNKO2VqlZLBAg3jpdpb7YYTvFClzdPZklPAu64yn8UYwmufdJoWKcxplYyeSm3kbF4xB270s2XE0VlRFE98O3NUSJd6Vj5wmNRmq_dqGOKo4-6--37MGh8BztkQNSJmUfvfytMO5UxU8GCk5yQQLJC2laVNoGmfA2xuZCTb4kOAuFyUcgcR6bWPYuC2QR-kd7IyfptBDeunROGf2yqQTG83onm6Btz7Uw1HORkQP09ZhCghk6zG_5VJzCstnQH88eVmPLclEvu70nzkAhmSWnwjUwBQVYpVZztNHduDf6VN3GSArY&action=login_submit",
+      "response_body_preview": "{\"success\":false,\"successPage\":null,\"first_year_campaign\":false,\"errorThrown\":\"The email id or password that you've entered is incorrect.\\u00a0Please check again or use forgot password option if you do not remember the password.\",\"errorCode\":\"Incorrect Password\"}",
+      "response_content_type": "application/json; charset=utf-8",
+      "request_headers_error": ": string indices must be integers, not 'str'"
+    },
+    {
+      "url": "https://sdk-03.moengage.com/v3/sdkconfig/web/H2AZG7O4X4KYQ8C362UKNTNW",
+      "method": "POST",
+      "resource_type": "xhr",
+      "status": 200,
+      "request_headers": {
+        ":authority": "sdk-03.moengage.com",
+        ":method": "POST",
+        ":path": "/v3/sdkconfig/web/H2AZG7O4X4KYQ8C362UKNTNW",
+        ":scheme": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.9",
+        "content-length": "35",
+        "content-type": "text/plain;charset=UTF-8",
+        "origin": "https://internshala.com",
+        "priority": "u=1, i",
+        "referer": "https://internshala.com/",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "cross-site",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+      },
+      "response_headers": {
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type",
+        "access-control-allow-methods": "GET, POST, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-encoding": "gzip",
+        "content-type": "application/json",
+        "date": "Mon, 13 Apr 2026 12:42:26 GMT",
+        "expires": "Mon, 13 Apr 2026 12:42:25 GMT",
+        "server": "nginx",
+        "strict-transport-security": "max-age=16070400; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "via": "1.1 1f23ffcac5f2f3a2f895149f2110de5c.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "kfbYr2vkyY0ssyJ25NsApPxMtHH3576yjuIVdhy3QEGb6n_csgq7Ew==",
+        "x-amz-cf-pop": "PNQ50-P3",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      },
+      "request_post_data": "{\"query_params\":{\"unique_id\":null}}",
+      "response_body_preview": "{\"s_log\":\"allowed\",\"s_e_b_e\":\"allowed\",\"a_s\":\"allowed\",\"c_s\":\"blocked\",\"c_w_p_e\":\"allowed\",\"b_d\":\"blocked\",\"m_i_e\":\"blocked\",\"lp_t\":\"blocked\",\"b_e\":[],\"w_e\":[\"MOE_PUSH_PERMISSION_STATE_ALLOWED\",\"MOE_PUSH_PERMISSION_STATE_BLOCKED\"],\"a_c_i_s\":\"blocked\",\"u_i_s\":[\"uid\"],\"ac_s\":\"blocked\",\"e_b_c\":15,\"s_b_a\":[],\"p_f_t\":60,\"s_i_d\":1800,\"src_ext\":[],\"a_c_d_s_i\":3,\"u_a_c_t\":43200,\"cr_c_t\":5184000}",
+      "response_content_type": "application/json"
+    },
+    {
+      "url": "https://sdk-03.moengage.com/v2/websdksettings?app_id=H2AZG7O4X4KYQ8C362UKNTNW",
+      "method": "GET",
+      "resource_type": "xhr",
+      "status": 200,
+      "request_headers": {
+        ":authority": "sdk-03.moengage.com",
+        ":method": "GET",
+        ":path": "/v2/websdksettings?app_id=H2AZG7O4X4KYQ8C362UKNTNW",
+        ":scheme": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.9",
+        "origin": "https://internshala.com",
+        "priority": "u=1, i",
+        "referer": "https://internshala.com/",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "cross-site",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+      },
+      "response_headers": {
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type",
+        "access-control-allow-methods": "GET, POST, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "content-encoding": "gzip",
+        "content-type": "application/json",
+        "date": "Mon, 13 Apr 2026 12:42:26 GMT",
+        "expires": "Mon, 13 Apr 2026 12:42:25 GMT",
+        "server": "nginx",
+        "strict-transport-security": "max-age=16070400; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "via": "1.1 1f23ffcac5f2f3a2f895149f2110de5c.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "7SEMkyjJVoArKrfYwCwQ4_bbOROKdXYTlYS4s3V_UcdKYpMXYw2Sdw==",
+        "x-amz-cf-pop": "PNQ50-P3",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      },
+      "request_post_data": "",
+      "response_body_preview": "{\"webData\": {\"sub_billing\": false, \"domain_level_storage\": false, \"show_overlay\": false, \"load_time\": 0, \"prompt_again\": 0, \"opt_in_type\": \"self-handled\", \"is_enabled\": true, \"opt_in_preview\": {\"mobile\": {\"nudge\": {\"title\": {\"text_color\": \"#FFFFFF\", \"text\": \"This website would like to send you awesome updates and offers!\"}, \"background_color\": \"#000000\", \"icon\": \"https://www.moengage.com/wp-content/uploads/2019/07/moengage-logo.png\", \"alt_text\": \"\"}, \"allow_button\": {\"text_color\": \"#FFFFFF\", \"text\": \"Allow\", \"background_color\": \"#000000\"}, \"dismiss_button\": {\"text_color\": \"#FFFFFF\", \"text\": \"Don't Allow\", \"background_color\": \"#000000\"}, \"logo\": {\"logo_url\": \"https://app-cdn.moengage.com/images/brand/logo_full_white.png\", \"logo_color\": \"#FFFFFF\", \"alt_text\": \"Powered By MoEngage\"}}, \"web\": {\"banner\": {\"title\": {\"text_color\": \"#FFFFFF\", \"text\": \"This website would like to send you awesome updates and offers!\"}, \"body\": {\"text_color\": \"#FFFFFF\", \"text\": \"Notifications can be turned off anytime from browser settings\"}, \"background_color\": \"#000000\", \"icon\": \"https://www.moengage.com/wp-content/uploads/2019/07/moengage-logo.png\", \"alt_text\": \"\"}, \"allow_button\": {\"text_color\": \"#FFFFFF\", \"text\": \"Allow\", \"background_color\": \"#000000\"}, \"dismiss_button\": {\"text_color\": \"#FFFFFF\", \"text\": \"Don't Allow\", \"background_color\": \"#000000\"}, \"logo\": {\"logo_url\": \"https://app-cdn.moengage.com/images/brand/logo_full_white.png\", \"logo_color\": \"#FFFFFF\", \"alt_text\": \"Powered By MoEngage\"}}}, \"overlay\": {\"opera\": {\"mobile\": {\"title\": \"Opera Mobile Preview\", \"text\": \"Tap on Allow button to receive notifications\"}, \"desktop\": {\"title\": \"Opera Desktop Preview\", \"text\": \"Click on Allow button to receive notifications\"}}, \"chrome\": {\"mobile\": {\"title\": \"Chrome Mobile Preview\", \"text\": \"Tap on Allow button to receive notifications\"}, \"desktop\": {\"title\": \"Chrome Desktop Preview\", \"text\": \"Click on Allow button to receive notifications\"}}, \"firefox\": {\"mobile\": {\"title\": \"Firefox Mobile Prev\n... [truncated 565 chars]",
+      "response_content_type": "application/json"
+    },
+    {
+      "url": "https://sdk-03.moengage.com/v2/device/add?os=web&os_platform=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F140.0.0.0%20Safari%2F537.36&is_incognito=false&app_id=H2AZG7O4X4KYQ8C362UKNTNW&os_ver=Google%20Chrome&sdk_ver=2.54.12&model=Google%20Chrome&app_ver=1.0&device_ts=1776084147664&device_tz_offset=19800000&unique_id=de514124-d5dc-4016-aded-3444fcc4eb1c&device_tz=-330&device_unique_id=f9a60b0b-45ee-431c-b4c1-3def638181bd&subscription_type=vapid&vapid_public=BFzQZwTLG4r7iFaDGPM7P-CKDugj1Pr7dZeEPGKsfo8xTOcQ109BrtJPU7wJd9r0K6Az0xl7oP52AnmJMgEAFo0&environment=sdk-03.moengage.com&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser",
+      "method": "POST",
+      "resource_type": "xhr",
+      "status": 200,
+      "request_headers": {
+        ":authority": "sdk-03.moengage.com",
+        ":method": "POST",
+        ":path": "/v2/device/add?os=web&os_platform=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F140.0.0.0%20Safari%2F537.36&is_incognito=false&app_id=H2AZG7O4X4KYQ8C362UKNTNW&os_ver=Google%20Chrome&sdk_ver=2.54.12&model=Google%20Chrome&app_ver=1.0&device_ts=1776084147664&device_tz_offset=19800000&unique_id=de514124-d5dc-4016-aded-3444fcc4eb1c&device_tz=-330&device_unique_id=f9a60b0b-45ee-431c-b4c1-3def638181bd&subscription_type=vapid&vapid_public=BFzQZwTLG4r7iFaDGPM7P-CKDugj1Pr7dZeEPGKsfo8xTOcQ109BrtJPU7wJd9r0K6Az0xl7oP52AnmJMgEAFo0&environment=sdk-03.moengage.com&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser",
+        ":scheme": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.9",
+        "content-length": "4",
+        "content-type": "text/plain;charset=UTF-8",
+        "origin": "https://internshala.com",
+        "priority": "u=1, i",
+        "referer": "https://internshala.com/",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "cross-site",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+      },
+      "response_headers": {
+        "access-control-allow-origin": "*",
+        "content-encoding": "gzip",
+        "content-type": "application/json",
+        "date": "Mon, 13 Apr 2026 12:42:26 GMT",
+        "strict-transport-security": "max-age=16070400; includeSubDomains",
+        "vary": "accept-encoding",
+        "via": "1.1 1f23ffcac5f2f3a2f895149f2110de5c.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "yADxIh2p89GACW181Os41HvMYd6uM7Z97yzaxmxHR_pKXRG_WXj3rw==",
+        "x-amz-cf-pop": "PNQ50-P3",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      },
+      "request_post_data": "null",
+      "response_body_preview": "{\"status\":\"success\",\"message\":\"Your request has been accepted and will be processed soon.\"}",
+      "response_content_type": "application/json"
+    },
+    {
+      "url": "https://sdk-03.moengage.com/v3/campaigns/inapp/live?sdk_ver=2.54.12&unique_id=de514124-d5dc-4016-aded-3444fcc4eb1c&os=web",
+      "method": "POST",
+      "resource_type": "xhr",
+      "status": 200,
+      "request_headers": {
+        ":authority": "sdk-03.moengage.com",
+        ":method": "POST",
+        ":path": "/v3/campaigns/inapp/live?sdk_ver=2.54.12&unique_id=de514124-d5dc-4016-aded-3444fcc4eb1c&os=web",
+        ":scheme": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.9",
+        "content-length": "132",
+        "content-type": "application/json",
+        "moe-appkey": "H2AZG7O4X4KYQ8C362UKNTNW",
+        "origin": "https://internshala.com",
+        "priority": "u=1, i",
+        "referer": "https://internshala.com/",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "cross-site",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+      },
+      "response_headers": {
+        "access-control-allow-headers": "DNT, User-Agent, X-Requested-With, If-Modified-Since,Cache-Control, Content-Type, Range, MOE-DBNAME, MOE-APPKEY,MOE-REQUEST-ID, MOE-UNIQUE-ID, MOE-APPSECRET, MOE-INAPP-BATCH-ID, MOE-DASHBOARD-USER-ID, MOE-PROJECT-CODE",
+        "access-control-allow-methods": "GET, POST, OPTIONS, DELETE, PUT, PATCH",
+        "access-control-allow-origin": "*",
+        "content-encoding": "gzip",
+        "content-length": "93",
+        "content-type": "application/json",
+        "date": "Mon, 13 Apr 2026 12:42:27 GMT",
+        "moe-request-id": "ucSkqDJn",
+        "server": "nginx",
+        "strict-transport-security": "max-age=16070400; includeSubDomains",
+        "via": "1.1 1f23ffcac5f2f3a2f895149f2110de5c.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "oG0lcigU-Go6Q6Jn4DzjK2tPf-nz66WK-w69KvBraGBRzmBeKuoh9w==",
+        "x-amz-cf-pop": "PNQ50-P3",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      },
+      "request_post_data": "{\"identifiers\":{},\"campaign_ids\":[],\"user_session_attributes\":{\"USER_TYPE\":\"New\",\"DAY_OF_THE_WEEK\":\"Monday\",\"TIME_OF_THE_DAY\":\"18\"}}",
+      "response_body_preview": "{\"campaigns\": [], \"min_delay_btw_inapps\": 900, \"sync_interval\": 900, \"fc_settings\": {}}",
+      "response_content_type": "application/json"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGQ&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=1&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&_s=4&tfd=19068",
+      "method": "POST",
+      "resource_type": "fetch",
+      "status": 204,
+      "request_headers": {
+        ":authority": "analytics.google.com",
+        ":method": "POST",
+        ":path": "/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGQ&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=1&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&_s=4&tfd=19068",
+        ":scheme": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.9",
+        "content-length": "138",
+        "content-type": "text/plain;charset=UTF-8",
+        "origin": "https://internshala.com",
+        "priority": "u=1, i",
+        "referer": "https://internshala.com/",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "no-cors",
+        "sec-fetch-site": "cross-site",
+        "sec-fetch-storage-access": "active",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+      },
+      "response_headers": {},
+      "request_post_data": "en=LCP&epn.value=1072&_et=8958\r\nen=FID&epn.value=3&_et=202\r\nen=TTFB&epn.value=306&_et=3632\r\nen=scroll_depth&epn.scrolled_percent=50&_et=67",
+      "response_body_preview": "",
+      "response_content_type": "",
+      "response_headers_error": "Response.all_headers: string indices must be integers, not 'str'",
+      "response_body_error": "Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    }
+  ],
+  "candidate_endpoints": [
+    {
+      "method": "POST",
+      "url": "https://www.google.com/ccm/collect?rcb=4&frm=0&ae=g&en=page_view&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&scrsrc=www.googletagmanager.com&rnd=608714727.1776084131&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&auid=263776112.1776084131&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6481v72423080za200zd72423080xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266400~117384405&apve=1&apvf=f&apvc=1&tft=1776084131613&tfd=2324",
+      "status": 200,
+      "response_content_type": ""
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google.com/rmkt/collect/16992256369/?random=1776084133541&cv=11&fst=1776084133541&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v9218375417z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=10&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&gcp=5",
+      "status": 200,
+      "response_content_type": ""
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google.com/rmkt/collect/811441815/?random=1776084134103&cv=11&fst=1776084134103&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v878783017z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=12&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&gcp=5",
+      "status": 200,
+      "response_content_type": ""
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google.com/ccm/collect?rcb=10&frm=0&en=page_view&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&scrsrc=www.googletagmanager.com&rnd=608714727.1776084131&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&auid=263776112.1776084131&navt=n&npa=0&gtm=45be6481v9218375417z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&apve=1&apvf=f&apvc=0&tids=AW-16992256369&tid=AW-16992256369&tft=1776084133677&tfd=4388",
+      "status": 200,
+      "response_content_type": ""
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google.com/rmkt/collect/981478532/?random=1776084133742&cv=11&fst=1776084133742&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6481v9215161533z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=3&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&gcp=5",
+      "status": 200,
+      "response_content_type": ""
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&en=page_view&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&scrsrc=www.googletagmanager.com&rnd=608714727.1776084131&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&auid=263776112.1776084131&navt=n&npa=0&gtm=45be6481v9215161533z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&apve=1&apvf=f&apvc=0&tids=AW-981478532&tid=AW-981478532&tft=1776084134011&tfd=4723",
+      "status": 200,
+      "response_content_type": ""
+    },
+    {
+      "method": "POST",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGQ&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=2&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=0&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&en=FCP&epn.value=1072&_et=62&tfd=5093",
+      "status": 204,
+      "response_content_type": "text/plain"
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&en=page_view&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&scrsrc=www.googletagmanager.com&rnd=608714727.1776084131&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&auid=263776112.1776084131&navt=n&npa=0&gtm=45be6481v878783017z872423080za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&apve=1&apvf=f&apvc=0&tids=AW-811441815&tid=AW-811441815&tft=1776084134238&tfd=4949",
+      "status": 200,
+      "response_content_type": ""
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1000353713&t=pageview&_s=1&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&ul=en-us&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&sr=1280x720&vp=1265x720&_u=YADAAAABAAAAAC~&jid=1927837085&gjid=1327451916&cid=436575670.1776084134&tid=UA-20875335-1&_gid=134358093.1776084134&_r=1&_slc=1&gtm=45He6481n715NSPHGv72423080za200zd72423080&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266400~117384405&z=1977977611",
+      "status": 200,
+      "response_content_type": "text/plain"
+    },
+    {
+      "method": "POST",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGA&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=1&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=0&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=5015",
+      "status": 204,
+      "response_content_type": "text/plain"
+    },
+    {
+      "method": "POST",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAACAGQ&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&_s=3&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=1&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&en=page_view&_et=4&tfd=10103",
+      "status": 204,
+      "response_content_type": ""
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google.com/rmkt/collect/16992256369/?random=1776084142708&cv=11&fst=1776084142708&fmt=8&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v9218375417za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=10&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&gcp=5",
+      "status": 200,
+      "response_content_type": ""
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google.com/rmkt/collect/981478532/?random=1776084142751&cv=11&fst=1776084142751&fmt=8&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v9215161533za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938468~117266402&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=3&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&gcp=5",
+      "status": 200,
+      "response_content_type": ""
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google.com/rmkt/collect/811441815/?random=1776084142799&cv=11&fst=1776084142799&fmt=8&bg=ffffff&guid=ON&async=1&en=form_start&gtm=45be6481v878783017za20gzb72423080zd72423080xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938465~115938469&u_w=1280&u_h=720&url=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&rcb=12&frm=0&tiba=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=263776112.1776084131&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dform_start&gcp=5",
+      "status": 200,
+      "response_content_type": ""
+    },
+    {
+      "method": "POST",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-XHNTE5RRF4&gtm=45je6481v877313046z872423080za20gzb72423080zd72423080&_p=1776084129793&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGQ&are=1&cid=436575670.1776084134&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B24.0.0.0%7CChromium%3B140.0.7339.16&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&tag_exp=0~115938465~115938469~118128923&sid=1776084134&sct=1&seg=1&dl=https%3A%2F%2Finternshala.com%2Flogin%2Fuser&dt=Internships%20%7C%20Jobs%20%7C%20Trainings%20%26%20Placement%20Courses%20%7C%20Post%20a%20Job&_s=4&tfd=19068",
+      "status": 204,
+      "response_content_type": ""
+    }
+  ],
+  "login_detected": false,
+  "notes": [
+    "account_type_switch_failed: Locator.click: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"#employer\").first\n    - locator resolved to <div id=\"employer\" class=\"col-xs-6 col-6 user-menu-item\">\u21b5                                Employer / T&P\u21b5 \u2026</div>\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n",
+    "email_selector=input[type='email']",
+    "password_selector=input[type='password']",
+    "submit_selector=button[type='submit']"
+  ],
+  "artifacts": {
+    "screenshot": "C:\\Users\\Admin\\Desktop\\Arii'\\Genrative AI\\project\\hiring-agent\\tests\\.artifacts\\internshala_probe\\20260413-181151-employer_manual\\page.png",
+    "html": "C:\\Users\\Admin\\Desktop\\Arii'\\Genrative AI\\project\\hiring-agent\\tests\\.artifacts\\internshala_probe\\20260413-181151-employer_manual\\page.html",
+    "xhr_fetch_details": "C:\\Users\\Admin\\Desktop\\Arii'\\Genrative AI\\project\\hiring-agent\\tests\\.artifacts\\internshala_probe\\20260413-181151-employer_manual\\xhr_fetch_details.json"
+  }
+}

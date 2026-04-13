@@ -25,3 +25,4 @@ secure-smtplib>=0.1.1
 eventlet>=0.35.0
 celery[redis]>=5.4.0
 redis>=5.0.0
+playwright>=1.52.0
