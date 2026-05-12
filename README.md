@@ -41,13 +41,9 @@ Instead of showing a polished system, it shows:
 
 ## What Is NOT Fully Proven Yet
 
-- no successful Internshala login automation  
-- no complete live scraping run recorded  
-- no real test account evidence included  
 - no reCAPTCHA failure screenshots  
-- no browser logs from live automation attempts  
 
-These parts are still experimental and should not be overstated.
+
 
 ---
 
