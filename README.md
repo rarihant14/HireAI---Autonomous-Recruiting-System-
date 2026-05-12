@@ -150,5 +150,5 @@ place credentials.json in project root
 
 
 Contribution Note
-UI layer: AI-assisted
+UI layer: AI-assisted 90 %
 Backend logic, system design, and integrations: ~70% manually built
